@@ -1,0 +1,2001 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level
+Anemia,No,No,Yes,No,34,Male,Normal,Low
+Hypertension,No,No,Yes,No,70,Male,High,High
+Anemia,No,No,Yes,No,18,Female,High,Normal
+Hypertension,No,No,Yes,No,52,Female,High,High
+Anemia,No,No,Yes,No,29,Female,Low,High
+Diabetes,No,No,Yes,No,15,Female,Low,Normal
+Anemia,No,No,Yes,No,24,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,62,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,45,Female,High,Low
+Hypertension,No,No,Yes,No,66,Female,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,79,Male,Normal,Normal
+Asthma,No,Yes,Yes,Yes,46,Male,High,Low
+COVID-19,Yes,Yes,Yes,Yes,12,Female,High,High
+Common Cold,Yes,Yes,No,No,63,Female,Normal,High
+Common Cold,Yes,Yes,Yes,No,42,Female,Low,High
+COVID-19,Yes,Yes,Yes,No,79,Male,Low,High
+Anemia,No,No,Yes,No,63,Female,Normal,Low
+Diabetes,No,No,Yes,No,38,Male,High,High
+Anemia,No,No,Yes,No,68,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,11,Female,Normal,Normal
+Hypertension,No,No,Yes,No,19,Female,High,Normal
+Anemia,No,No,Yes,No,48,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,32,Female,Low,Normal
+Hypertension,No,No,Yes,No,80,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,37,Female,Normal,High
+Hypertension,No,No,Yes,No,22,Male,High,Low
+Diabetes,No,No,Yes,No,52,Male,Normal,Low
+Common Cold,Yes,Yes,No,No,61,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,51,Female,High,Normal
+Diabetes,No,No,Yes,No,33,Male,Low,High
+Anemia,No,No,Yes,No,52,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,77,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,28,Female,Low,Low
+Diabetes,No,No,Yes,No,40,Male,Low,Low
+Asthma,No,Yes,No,Yes,20,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,77,Male,Normal,High
+Common Cold,Yes,Yes,No,No,27,Female,Normal,Low
+Diabetes,No,No,Yes,No,24,Male,Normal,Normal
+Common Cold,Yes,Yes,No,No,22,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,74,Female,Normal,Low
+Hypertension,No,No,Yes,No,35,Female,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,63,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,43,Female,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,25,Male,Normal,Low
+Diabetes,No,No,Yes,No,70,Female,Normal,High
+Hypertension,No,No,Yes,No,16,Female,High,Normal
+Common Cold,Yes,Yes,Yes,No,46,Female,Normal,Normal
+Anemia,No,No,Yes,No,71,Male,Normal,Low
+Anemia,No,No,Yes,No,59,Female,High,High
+Diabetes,No,No,Yes,No,45,Female,High,High
+Anemia,No,No,Yes,No,59,Male,High,Low
+Hypertension,No,No,Yes,No,56,Female,Low,High
+Hypertension,No,No,Yes,No,68,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,18,Male,Low,Low
+Anemia,No,No,Yes,No,73,Male,High,Normal
+Asthma,No,Yes,Yes,Yes,44,Female,Low,Low
+COVID-19,Yes,Yes,Yes,No,13,Male,Normal,Low
+Diabetes,No,No,Yes,No,31,Female,Normal,High
+COVID-19,Yes,Yes,Yes,No,52,Female,Normal,Normal
+Asthma,No,Yes,No,Yes,11,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,29,Male,High,High
+Diabetes,No,No,Yes,No,14,Male,High,High
+COVID-19,Yes,Yes,Yes,Yes,17,Male,High,Low
+Diabetes,No,No,Yes,No,54,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,21,Male,Low,High
+Diabetes,No,No,Yes,No,23,Male,Low,High
+Asthma,No,Yes,Yes,Yes,67,Female,Low,Normal
+Hypertension,No,No,Yes,No,28,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,64,Female,Normal,Normal
+Anemia,No,No,Yes,No,32,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,53,Male,High,Normal
+Hypertension,No,No,Yes,No,55,Male,High,Low
+Hypertension,No,No,Yes,No,37,Female,Normal,High
+COVID-19,Yes,Yes,Yes,No,58,Female,High,Low
+Common Cold,Yes,Yes,No,No,66,Male,Low,High
+Anemia,No,No,Yes,No,18,Male,Low,Normal
+Asthma,No,Yes,No,Yes,13,Male,High,High
+Common Cold,Yes,Yes,Yes,No,13,Female,Normal,High
+Anemia,No,No,Yes,No,39,Female,High,Low
+Anemia,No,No,Yes,No,19,Female,Low,High
+Anemia,No,No,Yes,No,60,Male,Low,Low
+Asthma,No,Yes,No,Yes,17,Male,Low,Normal
+Hypertension,No,No,Yes,No,71,Female,High,High
+Common Cold,Yes,Yes,Yes,No,48,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,50,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,38,Female,High,Low
+COVID-19,Yes,Yes,Yes,No,33,Male,Low,High
+Asthma,No,Yes,No,Yes,62,Female,Low,Normal
+Asthma,No,Yes,Yes,Yes,70,Female,Normal,High
+Diabetes,No,No,Yes,No,20,Male,Low,Normal
+Asthma,No,Yes,No,Yes,44,Male,Normal,Low
+Hypertension,No,No,Yes,No,67,Male,Low,High
+Hypertension,No,No,Yes,No,66,Male,Normal,Normal
+Asthma,No,Yes,No,Yes,39,Female,High,High
+Diabetes,No,No,Yes,No,41,Male,High,Normal
+Common Cold,Yes,Yes,Yes,No,75,Male,Low,Low
+COVID-19,Yes,Yes,Yes,No,72,Female,Normal,Low
+Diabetes,No,No,Yes,No,35,Male,Normal,High
+Diabetes,No,No,Yes,No,37,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,25,Male,Low,Low
+COVID-19,Yes,Yes,Yes,No,63,Female,Normal,Low
+Diabetes,No,No,Yes,No,21,Male,Normal,Normal
+Diabetes,No,No,Yes,No,37,Female,Normal,High
+Anemia,No,No,Yes,No,61,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,49,Female,Low,Low
+Diabetes,No,No,Yes,No,29,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,55,Female,Low,Low
+Anemia,No,No,Yes,No,11,Female,Low,Normal
+Asthma,No,Yes,No,Yes,49,Female,Normal,Low
+Anemia,No,No,Yes,No,57,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,36,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,62,Male,High,High
+Common Cold,Yes,Yes,No,No,16,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,No,17,Male,High,Normal
+Hypertension,No,No,Yes,No,64,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,28,Male,Low,Normal
+Diabetes,No,No,Yes,No,51,Male,Normal,Low
+Hypertension,No,No,Yes,No,48,Male,Low,Normal
+Anemia,No,No,Yes,No,46,Female,High,Low
+COVID-19,Yes,Yes,Yes,No,77,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,78,Female,High,Normal
+Hypertension,No,No,Yes,No,12,Male,High,Low
+Common Cold,Yes,Yes,No,No,59,Female,Normal,High
+Common Cold,Yes,Yes,No,No,43,Female,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,72,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,57,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,39,Female,Normal,Normal
+Asthma,No,Yes,No,Yes,27,Male,Normal,Normal
+Common Cold,Yes,Yes,No,No,71,Male,High,High
+COVID-19,Yes,Yes,Yes,No,63,Female,Low,Low
+Anemia,No,No,Yes,No,74,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,23,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,48,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,56,Female,High,High
+Hypertension,No,No,Yes,No,80,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,77,Male,Normal,Low
+Anemia,No,No,Yes,No,42,Female,High,Normal
+Anemia,No,No,Yes,No,14,Male,Normal,Low
+Hypertension,No,No,Yes,No,54,Female,High,Low
+COVID-19,Yes,Yes,Yes,No,73,Male,High,Low
+Hypertension,No,No,Yes,No,62,Female,High,Normal
+Diabetes,No,No,Yes,No,68,Female,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,20,Female,Normal,High
+Common Cold,Yes,Yes,No,No,51,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,32,Male,High,High
+Diabetes,No,No,Yes,No,53,Female,Low,High
+COVID-19,Yes,Yes,Yes,No,72,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,68,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,48,Male,Normal,Low
+Asthma,No,Yes,No,Yes,74,Female,Low,High
+Diabetes,No,No,Yes,No,22,Male,Low,Normal
+Hypertension,No,No,Yes,No,34,Female,Normal,High
+Common Cold,Yes,Yes,No,No,38,Male,Normal,Normal
+Asthma,No,Yes,Yes,Yes,64,Male,Normal,Low
+Anemia,No,No,Yes,No,47,Male,High,High
+Common Cold,Yes,Yes,No,No,67,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,28,Female,Low,Low
+Hypertension,No,No,Yes,No,40,Female,Low,Low
+Common Cold,Yes,Yes,Yes,No,34,Female,Normal,High
+Anemia,No,No,Yes,No,46,Male,High,High
+COVID-19,Yes,Yes,Yes,Yes,48,Female,High,Low
+COVID-19,Yes,Yes,Yes,No,38,Male,Low,Low
+Hypertension,No,No,Yes,No,17,Male,High,Normal
+Diabetes,No,No,Yes,No,30,Male,Low,Low
+Asthma,No,Yes,Yes,Yes,44,Female,High,Normal
+COVID-19,Yes,Yes,Yes,No,70,Male,Low,Low
+Anemia,No,No,Yes,No,74,Female,High,Normal
+Anemia,No,No,Yes,No,31,Male,Normal,High
+COVID-19,Yes,Yes,Yes,No,49,Male,High,High
+COVID-19,Yes,Yes,Yes,No,37,Female,Normal,Normal
+Hypertension,No,No,Yes,No,76,Female,High,Low
+Hypertension,No,No,Yes,No,21,Male,Low,Normal
+Asthma,No,Yes,No,Yes,59,Female,Low,Low
+Hypertension,No,No,Yes,No,44,Male,Low,High
+Diabetes,No,No,Yes,No,63,Female,High,Normal
+Anemia,No,No,Yes,No,69,Female,Normal,High
+Asthma,No,Yes,No,Yes,59,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,59,Female,Normal,Low
+Asthma,No,Yes,No,Yes,35,Female,Low,Low
+Common Cold,Yes,Yes,Yes,No,38,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,31,Male,Normal,Normal
+Asthma,No,Yes,No,Yes,68,Female,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,37,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,13,Female,Low,Normal
+Anemia,No,No,Yes,No,48,Male,Normal,Low
+Diabetes,No,No,Yes,No,13,Female,Normal,Low
+Common Cold,Yes,Yes,Yes,No,20,Female,Low,High
+Common Cold,Yes,Yes,No,No,15,Female,High,Normal
+Common Cold,Yes,Yes,No,No,63,Male,Low,High
+Hypertension,No,No,Yes,No,74,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,59,Female,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,57,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,66,Male,High,Normal
+Diabetes,No,No,Yes,No,10,Male,High,Normal
+Common Cold,Yes,Yes,Yes,No,80,Male,Normal,High
+Common Cold,Yes,Yes,No,No,37,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,13,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal
+Asthma,No,Yes,Yes,Yes,42,Male,High,High
+COVID-19,Yes,Yes,Yes,Yes,78,Male,Low,High
+Hypertension,No,No,Yes,No,35,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,42,Female,Normal,Low
+Hypertension,No,No,Yes,No,13,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,53,Female,High,High
+Hypertension,No,No,Yes,No,40,Female,Low,Low
+Anemia,No,No,Yes,No,30,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,52,Female,Low,High
+Common Cold,Yes,Yes,Yes,No,44,Male,Normal,Normal
+Common Cold,Yes,Yes,No,No,20,Female,Normal,Normal
+Anemia,No,No,Yes,No,53,Female,Normal,Normal
+Hypertension,No,No,Yes,No,27,Male,Low,High
+Asthma,No,Yes,No,Yes,25,Male,Low,High
+Diabetes,No,No,Yes,No,60,Female,Low,High
+Asthma,No,Yes,Yes,Yes,80,Female,Low,Low
+Hypertension,No,No,Yes,No,19,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,44,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,27,Female,High,Low
+Diabetes,No,No,Yes,No,49,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,58,Female,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,29,Female,Normal,Normal
+Hypertension,No,No,Yes,No,80,Female,Low,Low
+Hypertension,No,No,Yes,No,74,Male,Normal,High
+Anemia,No,No,Yes,No,53,Male,Low,High
+Common Cold,Yes,Yes,No,No,26,Male,Normal,Normal
+Asthma,No,Yes,No,Yes,10,Female,High,High
+COVID-19,Yes,Yes,Yes,Yes,11,Male,Normal,High
+Hypertension,No,No,Yes,No,14,Female,Low,High
+Common Cold,Yes,Yes,No,No,41,Female,Low,Normal
+Anemia,No,No,Yes,No,12,Female,Low,High
+Common Cold,Yes,Yes,No,No,28,Male,Normal,Normal
+Anemia,No,No,Yes,No,79,Male,High,High
+Anemia,No,No,Yes,No,45,Male,Low,High
+COVID-19,Yes,Yes,Yes,Yes,32,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,56,Female,High,High
+Anemia,No,No,Yes,No,66,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,19,Male,Low,High
+Asthma,No,Yes,Yes,Yes,10,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,54,Male,Low,High
+Diabetes,No,No,Yes,No,39,Female,Normal,Low
+Hypertension,No,No,Yes,No,30,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,60,Female,High,Low
+Hypertension,No,No,Yes,No,21,Male,High,Low
+Diabetes,No,No,Yes,No,15,Male,High,Low
+Anemia,No,No,Yes,No,40,Male,Low,Normal
+Common Cold,Yes,Yes,Yes,No,10,Male,Low,Low
+Hypertension,No,No,Yes,No,14,Male,Low,Low
+Diabetes,No,No,Yes,No,40,Male,Normal,Low
+Diabetes,No,No,Yes,No,55,Male,Low,Normal
+Hypertension,No,No,Yes,No,37,Female,High,High
+COVID-19,Yes,Yes,Yes,No,57,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,76,Male,Normal,High
+Diabetes,No,No,Yes,No,78,Male,High,Normal
+Hypertension,No,No,Yes,No,51,Male,Low,Low
+Common Cold,Yes,Yes,Yes,No,45,Female,Normal,High
+Anemia,No,No,Yes,No,15,Male,High,High
+COVID-19,Yes,Yes,Yes,No,23,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,37,Male,High,Low
+COVID-19,Yes,Yes,Yes,No,12,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,16,Female,Normal,High
+COVID-19,Yes,Yes,Yes,No,15,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,71,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,38,Male,High,Low
+Anemia,No,No,Yes,No,58,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,40,Female,Normal,Normal
+Asthma,No,Yes,Yes,Yes,27,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,49,Female,Low,Low
+Diabetes,No,No,Yes,No,79,Male,Low,High
+Diabetes,No,No,Yes,No,26,Male,High,High
+Common Cold,Yes,Yes,Yes,No,56,Female,High,Low
+Diabetes,No,No,Yes,No,27,Male,High,Low
+Anemia,No,No,Yes,No,60,Female,High,Normal
+Hypertension,No,No,Yes,No,66,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,45,Female,High,Normal
+Common Cold,Yes,Yes,No,No,37,Female,Low,High
+Hypertension,No,No,Yes,No,28,Male,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,69,Female,High,Low
+Common Cold,Yes,Yes,No,No,68,Female,High,High
+Asthma,No,Yes,Yes,Yes,38,Female,Low,Low
+Diabetes,No,No,Yes,No,28,Female,High,High
+COVID-19,Yes,Yes,Yes,Yes,14,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,26,Female,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,40,Female,High,High
+Common Cold,Yes,Yes,Yes,No,56,Male,Normal,High
+Diabetes,No,No,Yes,No,51,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,44,Male,High,High
+Anemia,No,No,Yes,No,56,Male,High,High
+COVID-19,Yes,Yes,Yes,Yes,29,Female,Low,Low
+Asthma,No,Yes,No,Yes,40,Female,High,Low
+Common Cold,Yes,Yes,No,No,18,Male,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,16,Female,Normal,High
+Anemia,No,No,Yes,No,19,Female,Normal,High
+COVID-19,Yes,Yes,Yes,No,58,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,74,Female,Normal,Low
+Common Cold,Yes,Yes,Yes,No,20,Male,High,Low
+Common Cold,Yes,Yes,Yes,No,62,Female,Normal,Low
+Anemia,No,No,Yes,No,22,Female,Normal,Normal
+Anemia,No,No,Yes,No,33,Male,Normal,Low
+Anemia,No,No,Yes,No,44,Female,Low,Low
+Hypertension,No,No,Yes,No,68,Male,Normal,Normal
+Asthma,No,Yes,Yes,Yes,30,Female,Normal,High
+Common Cold,Yes,Yes,No,No,25,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,64,Male,Normal,High
+Anemia,No,No,Yes,No,35,Female,Low,Low
+Asthma,No,Yes,No,Yes,36,Female,Normal,Low
+Anemia,No,No,Yes,No,12,Female,Low,High
+Hypertension,No,No,Yes,No,21,Male,Normal,Low
+Hypertension,No,No,Yes,No,19,Male,Low,Low
+Anemia,No,No,Yes,No,25,Female,Normal,Low
+Diabetes,No,No,Yes,No,71,Male,High,High
+Hypertension,No,No,Yes,No,22,Male,High,High
+Anemia,No,No,Yes,No,62,Male,Normal,Low
+Anemia,No,No,Yes,No,25,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,43,Female,Low,Low
+Diabetes,No,No,Yes,No,20,Female,Low,Normal
+Common Cold,Yes,Yes,No,No,42,Male,Normal,Normal
+Diabetes,No,No,Yes,No,41,Female,Normal,Low
+Common Cold,Yes,Yes,No,No,18,Female,Normal,Low
+COVID-19,Yes,Yes,Yes,No,11,Female,Normal,Normal
+Anemia,No,No,Yes,No,27,Female,Normal,Low
+Diabetes,No,No,Yes,No,58,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,40,Female,High,Low
+COVID-19,Yes,Yes,Yes,No,46,Male,High,High
+Anemia,No,No,Yes,No,30,Male,Low,High
+Anemia,No,No,Yes,No,53,Male,High,Low
+Anemia,No,No,Yes,No,19,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,18,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,62,Male,Normal,High
+Diabetes,No,No,Yes,No,20,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,60,Female,Low,Low
+Diabetes,No,No,Yes,No,55,Male,High,Low
+Diabetes,No,No,Yes,No,27,Male,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,33,Male,High,Low
+Diabetes,No,No,Yes,No,57,Male,Low,Normal
+Diabetes,No,No,Yes,No,40,Male,Low,Normal
+Anemia,No,No,Yes,No,79,Male,Low,High
+Anemia,No,No,Yes,No,51,Female,Low,Low
+Hypertension,No,No,Yes,No,37,Male,High,High
+Anemia,No,No,Yes,No,45,Female,Normal,High
+Common Cold,Yes,Yes,No,No,59,Male,High,Low
+Diabetes,No,No,Yes,No,22,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,29,Female,Low,Low
+Hypertension,No,No,Yes,No,35,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,18,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,27,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,31,Male,Normal,Low
+Asthma,No,Yes,Yes,Yes,76,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,80,Female,Low,High
+Hypertension,No,No,Yes,No,30,Male,High,High
+Diabetes,No,No,Yes,No,44,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,58,Male,Low,Normal
+Hypertension,No,No,Yes,No,15,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,31,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,60,Male,High,Low
+Diabetes,No,No,Yes,No,72,Female,High,High
+Hypertension,No,No,Yes,No,74,Female,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,57,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,58,Female,Low,Low
+Anemia,No,No,Yes,No,49,Female,Normal,Low
+Hypertension,No,No,Yes,No,36,Male,High,High
+Hypertension,No,No,Yes,No,31,Male,Low,Low
+Anemia,No,No,Yes,No,74,Male,High,Low
+COVID-19,Yes,Yes,Yes,No,45,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,60,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,63,Male,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,32,Female,Low,Normal
+Diabetes,No,No,Yes,No,13,Male,Normal,High
+Anemia,No,No,Yes,No,22,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,45,Female,Low,Low
+Anemia,No,No,Yes,No,60,Male,High,Normal
+Common Cold,Yes,Yes,No,No,57,Male,Low,Normal
+Hypertension,No,No,Yes,No,25,Male,Normal,Normal
+Asthma,No,Yes,No,Yes,80,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,75,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,23,Female,High,Low
+COVID-19,Yes,Yes,Yes,Yes,54,Female,Low,High
+Diabetes,No,No,Yes,No,10,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,59,Female,High,High
+Diabetes,No,No,Yes,No,56,Female,Normal,High
+Diabetes,No,No,Yes,No,75,Female,High,High
+Hypertension,No,No,Yes,No,40,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,74,Male,High,Normal
+Asthma,No,Yes,No,Yes,59,Female,High,High
+Hypertension,No,No,Yes,No,66,Male,High,Low
+COVID-19,Yes,Yes,Yes,No,10,Female,Low,High
+Anemia,No,No,Yes,No,41,Female,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,14,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,58,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,22,Female,High,Normal
+Anemia,No,No,Yes,No,65,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,39,Female,High,Normal
+Asthma,No,Yes,No,Yes,15,Female,Normal,High
+Common Cold,Yes,Yes,No,No,67,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,47,Female,High,High
+Diabetes,No,No,Yes,No,24,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,62,Male,Normal,High
+Hypertension,No,No,Yes,No,68,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,56,Female,Low,Normal
+Common Cold,Yes,Yes,No,No,39,Female,High,Low
+Hypertension,No,No,Yes,No,41,Male,High,Low
+Diabetes,No,No,Yes,No,47,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,42,Male,Low,High
+Hypertension,No,No,Yes,No,20,Female,Low,Normal
+Hypertension,No,No,Yes,No,30,Female,High,High
+Anemia,No,No,Yes,No,64,Female,Low,High
+Common Cold,Yes,Yes,No,No,73,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,73,Female,Low,Normal
+Asthma,No,Yes,Yes,Yes,78,Male,Low,Low
+Diabetes,No,No,Yes,No,72,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,76,Male,Low,Normal
+Common Cold,Yes,Yes,Yes,No,24,Female,Normal,High
+Hypertension,No,No,Yes,No,71,Female,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,15,Female,High,Normal
+Anemia,No,No,Yes,No,61,Male,Low,High
+Diabetes,No,No,Yes,No,48,Male,Low,Normal
+Asthma,No,Yes,No,Yes,32,Female,Low,High
+Asthma,No,Yes,Yes,Yes,60,Male,Normal,Low
+Common Cold,Yes,Yes,No,No,37,Female,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,50,Male,Normal,Normal
+Anemia,No,No,Yes,No,43,Female,High,Normal
+Anemia,No,No,Yes,No,22,Female,Normal,Low
+Diabetes,No,No,Yes,No,43,Male,Low,High
+COVID-19,Yes,Yes,Yes,Yes,53,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,66,Male,High,High
+Hypertension,No,No,Yes,No,48,Female,High,Normal
+Asthma,No,Yes,Yes,Yes,70,Male,High,Normal
+Diabetes,No,No,Yes,No,30,Female,Normal,High
+Hypertension,No,No,Yes,No,54,Male,Low,Low
+Common Cold,Yes,Yes,No,No,52,Female,Low,Normal
+Asthma,No,Yes,No,Yes,24,Female,Low,High
+Asthma,No,Yes,Yes,Yes,57,Male,High,High
+Common Cold,Yes,Yes,No,No,36,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,22,Female,High,Low
+Diabetes,No,No,Yes,No,35,Female,Low,Low
+Asthma,No,Yes,Yes,Yes,78,Female,Normal,High
+Common Cold,Yes,Yes,Yes,No,55,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,31,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,35,Male,High,Low
+Asthma,No,Yes,Yes,Yes,57,Male,Low,Low
+Hypertension,No,No,Yes,No,56,Male,Normal,Low
+Asthma,No,Yes,No,Yes,44,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,No,44,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,61,Male,Normal,High
+Diabetes,No,No,Yes,No,50,Female,Low,Low
+Asthma,No,Yes,No,Yes,55,Male,Low,High
+Anemia,No,No,Yes,No,22,Female,Low,High
+Common Cold,Yes,Yes,No,No,77,Male,Low,Low
+Asthma,No,Yes,Yes,Yes,19,Male,Low,Low
+Diabetes,No,No,Yes,No,10,Male,Low,Low
+Common Cold,Yes,Yes,Yes,No,25,Male,Low,Normal
+Hypertension,No,No,Yes,No,42,Female,High,Low
+Asthma,No,Yes,Yes,Yes,40,Female,Normal,High
+Asthma,No,Yes,No,Yes,26,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,56,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,No,29,Female,Low,Normal
+Diabetes,No,No,Yes,No,38,Female,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,22,Male,High,High
+Hypertension,No,No,Yes,No,38,Male,Low,High
+Hypertension,No,No,Yes,No,80,Female,High,Low
+Anemia,No,No,Yes,No,71,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,57,Male,Low,Low
+Common Cold,Yes,Yes,Yes,No,59,Male,High,High
+COVID-19,Yes,Yes,Yes,Yes,17,Male,Low,High
+COVID-19,Yes,Yes,Yes,No,49,Male,High,Low
+Asthma,No,Yes,Yes,Yes,22,Male,Low,High
+Asthma,No,Yes,Yes,Yes,77,Male,High,High
+Diabetes,No,No,Yes,No,66,Female,High,High
+Anemia,No,No,Yes,No,20,Male,Normal,High
+Diabetes,No,No,Yes,No,11,Female,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,65,Male,High,Low
+Hypertension,No,No,Yes,No,76,Female,Low,High
+Anemia,No,No,Yes,No,43,Female,High,Normal
+Hypertension,No,No,Yes,No,76,Male,Normal,Normal
+Hypertension,No,No,Yes,No,29,Female,High,Low
+Anemia,No,No,Yes,No,68,Male,Normal,Normal
+Diabetes,No,No,Yes,No,79,Male,Normal,Normal
+Asthma,No,Yes,No,Yes,53,Female,Low,Normal
+Anemia,No,No,Yes,No,36,Male,Normal,High
+Asthma,No,Yes,No,Yes,58,Female,High,High
+Asthma,No,Yes,Yes,Yes,27,Female,High,Low
+Asthma,No,Yes,Yes,Yes,52,Female,Low,Low
+Diabetes,No,No,Yes,No,76,Male,Low,Low
+Hypertension,No,No,Yes,No,30,Female,High,Normal
+Diabetes,No,No,Yes,No,72,Male,Normal,Normal
+Diabetes,No,No,Yes,No,30,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,22,Male,High,High
+Common Cold,Yes,Yes,No,No,74,Female,High,Low
+COVID-19,Yes,Yes,Yes,Yes,40,Male,Low,Normal
+Anemia,No,No,Yes,No,32,Male,High,High
+Common Cold,Yes,Yes,No,No,75,Female,Low,High
+Anemia,No,No,Yes,No,61,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,13,Male,High,Normal
+Anemia,No,No,Yes,No,43,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,33,Male,Low,Low
+Hypertension,No,No,Yes,No,30,Male,High,Low
+Asthma,No,Yes,No,Yes,42,Female,Low,High
+Anemia,No,No,Yes,No,61,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,23,Female,Low,High
+Asthma,No,Yes,No,Yes,69,Male,Low,Normal
+Anemia,No,No,Yes,No,50,Female,Normal,Normal
+Diabetes,No,No,Yes,No,19,Male,Low,Normal
+Common Cold,Yes,Yes,No,No,80,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,34,Female,Low,Normal
+Common Cold,Yes,Yes,No,No,58,Female,Normal,Low
+Diabetes,No,No,Yes,No,45,Female,High,Low
+Asthma,No,Yes,No,Yes,44,Female,High,Normal
+Hypertension,No,No,Yes,No,79,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,77,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,79,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,17,Male,Normal,Normal
+Asthma,No,Yes,Yes,Yes,77,Male,High,High
+Hypertension,No,No,Yes,No,12,Female,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,15,Male,High,Normal
+Diabetes,No,No,Yes,No,45,Male,Normal,Low
+Diabetes,No,No,Yes,No,33,Female,High,Normal
+Hypertension,No,No,Yes,No,61,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,75,Male,High,Low
+Asthma,No,Yes,No,Yes,79,Female,Low,Normal
+Asthma,No,Yes,No,Yes,55,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,10,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,70,Female,Normal,High
+Common Cold,Yes,Yes,No,No,62,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,47,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,78,Female,Normal,Low
+Asthma,No,Yes,Yes,Yes,32,Female,Low,Low
+Hypertension,No,No,Yes,No,39,Female,High,High
+Diabetes,No,No,Yes,No,74,Male,High,Normal
+Anemia,No,No,Yes,No,47,Female,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,48,Female,Normal,Low
+Hypertension,No,No,Yes,No,14,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,36,Female,Normal,Low
+Common Cold,Yes,Yes,No,No,73,Male,Low,Normal
+Diabetes,No,No,Yes,No,44,Female,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,44,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,15,Male,High,High
+Anemia,No,No,Yes,No,36,Male,Low,Low
+COVID-19,Yes,Yes,Yes,No,29,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,60,Male,High,High
+COVID-19,Yes,Yes,Yes,Yes,38,Female,Normal,Normal
+Asthma,No,Yes,Yes,Yes,34,Female,Low,Normal
+Common Cold,Yes,Yes,No,No,63,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,38,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,63,Male,Normal,Low
+Hypertension,No,No,Yes,No,13,Male,High,Low
+Common Cold,Yes,Yes,No,No,57,Female,High,Low
+Anemia,No,No,Yes,No,43,Female,Normal,High
+Diabetes,No,No,Yes,No,48,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,26,Male,Normal,Low
+Hypertension,No,No,Yes,No,45,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,18,Female,Low,Low
+Diabetes,No,No,Yes,No,66,Male,Normal,High
+Asthma,No,Yes,No,Yes,55,Female,Low,Low
+COVID-19,Yes,Yes,Yes,No,78,Male,High,Low
+Diabetes,No,No,Yes,No,13,Male,Normal,Normal
+Common Cold,Yes,Yes,No,No,29,Male,Normal,Low
+Hypertension,No,No,Yes,No,29,Male,High,High
+Asthma,No,Yes,Yes,Yes,35,Male,Low,High
+Diabetes,No,No,Yes,No,41,Female,Normal,Low
+Hypertension,No,No,Yes,No,16,Male,Low,Low
+Common Cold,Yes,Yes,Yes,No,12,Female,High,High
+Asthma,No,Yes,No,Yes,21,Male,High,High
+Hypertension,No,No,Yes,No,72,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,No,43,Male,Low,High
+Anemia,No,No,Yes,No,80,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,51,Male,High,Normal
+Hypertension,No,No,Yes,No,18,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,No,65,Female,High,High
+Anemia,No,No,Yes,No,71,Female,Normal,High
+Anemia,No,No,Yes,No,15,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,19,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,53,Female,High,High
+COVID-19,Yes,Yes,Yes,Yes,23,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,71,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,23,Male,High,Normal
+Hypertension,No,No,Yes,No,29,Female,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,53,Female,Normal,Low
+COVID-19,Yes,Yes,Yes,No,40,Female,Normal,High
+Common Cold,Yes,Yes,No,No,68,Male,Low,High
+Anemia,No,No,Yes,No,75,Female,High,Normal
+Diabetes,No,No,Yes,No,10,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,25,Female,High,High
+Diabetes,No,No,Yes,No,52,Male,High,Low
+Hypertension,No,No,Yes,No,24,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,39,Male,Normal,Normal
+Anemia,No,No,Yes,No,24,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,32,Male,Normal,Low
+Common Cold,Yes,Yes,No,No,44,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,68,Female,Low,High
+Diabetes,No,No,Yes,No,25,Female,Normal,High
+Hypertension,No,No,Yes,No,77,Female,Low,Normal
+Common Cold,Yes,Yes,No,No,55,Male,High,Normal
+Anemia,No,No,Yes,No,79,Male,High,Low
+Asthma,No,Yes,No,Yes,16,Male,Low,High
+Anemia,No,No,Yes,No,32,Female,High,Normal
+Common Cold,Yes,Yes,Yes,No,62,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,72,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,68,Male,Low,High
+Asthma,No,Yes,Yes,Yes,61,Male,Low,Low
+Hypertension,No,No,Yes,No,66,Male,Normal,Low
+Common Cold,Yes,Yes,Yes,No,57,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,43,Female,Low,Low
+Common Cold,Yes,Yes,Yes,No,52,Male,Normal,Normal
+Common Cold,Yes,Yes,No,No,80,Male,Low,High
+Asthma,No,Yes,No,Yes,76,Female,Normal,High
+Common Cold,Yes,Yes,Yes,No,50,Female,Low,Low
+Asthma,No,Yes,Yes,Yes,53,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,49,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,47,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,57,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,45,Male,Normal,High
+Hypertension,No,No,Yes,No,70,Female,High,High
+COVID-19,Yes,Yes,Yes,Yes,28,Male,Normal,Low
+Anemia,No,No,Yes,No,67,Female,Normal,High
+COVID-19,Yes,Yes,Yes,No,76,Female,High,Low
+COVID-19,Yes,Yes,Yes,No,15,Male,Normal,High
+Hypertension,No,No,Yes,No,65,Female,High,Normal
+COVID-19,Yes,Yes,Yes,No,22,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,70,Female,Low,Normal
+Diabetes,No,No,Yes,No,39,Female,Normal,High
+Common Cold,Yes,Yes,No,No,48,Female,High,High
+Asthma,No,Yes,Yes,Yes,62,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,25,Female,High,Low
+Asthma,No,Yes,No,Yes,40,Female,Normal,High
+Diabetes,No,No,Yes,No,56,Female,Low,High
+Common Cold,Yes,Yes,No,No,57,Male,Low,Low
+Common Cold,Yes,Yes,Yes,No,72,Female,High,High
+Common Cold,Yes,Yes,No,No,48,Female,Normal,Normal
+Asthma,No,Yes,No,Yes,31,Male,High,Normal
+Common Cold,Yes,Yes,Yes,No,80,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,54,Male,Low,Normal
+Anemia,No,No,Yes,No,78,Female,Low,Normal
+Asthma,No,Yes,Yes,Yes,49,Male,High,Low
+Hypertension,No,No,Yes,No,47,Male,High,High
+Diabetes,No,No,Yes,No,64,Female,Low,Normal
+Diabetes,No,No,Yes,No,54,Female,High,Low
+COVID-19,Yes,Yes,Yes,No,63,Male,Low,Low
+Anemia,No,No,Yes,No,36,Female,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,11,Male,Low,Normal
+Anemia,No,No,Yes,No,59,Male,High,Low
+Common Cold,Yes,Yes,No,No,26,Female,Low,Low
+Asthma,No,Yes,No,Yes,33,Female,Low,High
+Anemia,No,No,Yes,No,74,Male,Low,High
+Common Cold,Yes,Yes,No,No,11,Male,Low,Normal
+Hypertension,No,No,Yes,No,74,Female,High,High
+Hypertension,No,No,Yes,No,61,Male,Normal,Normal
+Anemia,No,No,Yes,No,26,Female,Low,Low
+Common Cold,Yes,Yes,No,No,14,Male,High,High
+Hypertension,No,No,Yes,No,70,Male,High,Normal
+Anemia,No,No,Yes,No,25,Male,High,High
+Diabetes,No,No,Yes,No,34,Female,Low,Normal
+Asthma,No,Yes,Yes,Yes,10,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,44,Female,High,High
+COVID-19,Yes,Yes,Yes,No,14,Female,Normal,Low
+Common Cold,Yes,Yes,Yes,No,19,Female,Normal,Low
+Asthma,No,Yes,No,Yes,15,Female,Low,High
+COVID-19,Yes,Yes,Yes,No,80,Male,High,Normal
+Diabetes,No,No,Yes,No,78,Male,Low,High
+Anemia,No,No,Yes,No,56,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,68,Male,High,Low
+Common Cold,Yes,Yes,No,No,63,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,17,Male,Normal,High
+Common Cold,Yes,Yes,No,No,32,Female,Low,Low
+COVID-19,Yes,Yes,Yes,No,33,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,52,Male,High,Low
+Hypertension,No,No,Yes,No,69,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,25,Male,High,High
+Hypertension,No,No,Yes,No,59,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,76,Female,Normal,Low
+Anemia,No,No,Yes,No,21,Male,High,High
+COVID-19,Yes,Yes,Yes,Yes,72,Female,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,33,Female,Normal,High
+Hypertension,No,No,Yes,No,56,Male,Normal,Normal
+Hypertension,No,No,Yes,No,11,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,17,Male,High,Low
+Hypertension,No,No,Yes,No,37,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,78,Female,Low,Low
+Hypertension,No,No,Yes,No,71,Female,Normal,Normal
+Common Cold,Yes,Yes,No,No,40,Female,High,Normal
+Asthma,No,Yes,Yes,Yes,29,Female,Low,Normal
+Diabetes,No,No,Yes,No,77,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,69,Male,Low,Normal
+Asthma,No,Yes,No,Yes,61,Female,High,Low
+Diabetes,No,No,Yes,No,69,Female,Low,High
+Asthma,No,Yes,No,Yes,22,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,59,Female,Low,Normal
+Diabetes,No,No,Yes,No,43,Female,High,High
+Common Cold,Yes,Yes,No,No,22,Female,Normal,High
+Diabetes,No,No,Yes,No,38,Male,Low,Low
+Anemia,No,No,Yes,No,35,Male,Low,High
+Hypertension,No,No,Yes,No,49,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,56,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,65,Female,High,Normal
+Diabetes,No,No,Yes,No,46,Female,Normal,High
+Common Cold,Yes,Yes,No,No,59,Female,High,Normal
+Anemia,No,No,Yes,No,67,Female,High,Low
+COVID-19,Yes,Yes,Yes,Yes,15,Male,High,Normal
+Anemia,No,No,Yes,No,21,Male,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,73,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,62,Female,Normal,Low
+Common Cold,Yes,Yes,No,No,51,Female,High,High
+Hypertension,No,No,Yes,No,15,Male,High,Normal
+Anemia,No,No,Yes,No,57,Female,Low,High
+Anemia,No,No,Yes,No,66,Female,High,Normal
+Asthma,No,Yes,Yes,Yes,65,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,68,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,19,Male,Normal,High
+Hypertension,No,No,Yes,No,22,Male,Low,High
+COVID-19,Yes,Yes,Yes,No,68,Male,High,Normal
+Anemia,No,No,Yes,No,51,Female,Low,Low
+Asthma,No,Yes,No,Yes,54,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,74,Female,Low,Normal
+Common Cold,Yes,Yes,No,No,28,Male,Normal,Low
+Hypertension,No,No,Yes,No,38,Male,Normal,High
+Hypertension,No,No,Yes,No,63,Male,High,Normal
+Asthma,No,Yes,Yes,Yes,53,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,31,Female,Low,Normal
+Asthma,No,Yes,No,Yes,42,Male,Normal,High
+Common Cold,Yes,Yes,Yes,No,77,Female,Normal,High
+Asthma,No,Yes,No,Yes,74,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,44,Male,Low,Normal
+Hypertension,No,No,Yes,No,54,Female,Normal,Normal
+Common Cold,Yes,Yes,No,No,79,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,36,Male,Low,High
+Asthma,No,Yes,Yes,Yes,18,Male,Low,Low
+Diabetes,No,No,Yes,No,60,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,32,Male,Normal,High
+Diabetes,No,No,Yes,No,73,Male,Low,Low
+COVID-19,Yes,Yes,Yes,No,55,Female,High,Normal
+Diabetes,No,No,Yes,No,68,Male,Low,Normal
+Diabetes,No,No,Yes,No,47,Female,Normal,Normal
+Hypertension,No,No,Yes,No,39,Male,Low,Normal
+Common Cold,Yes,Yes,No,No,34,Male,High,High
+Asthma,No,Yes,Yes,Yes,47,Female,High,Normal
+Anemia,No,No,Yes,No,12,Male,Low,Low
+COVID-19,Yes,Yes,Yes,No,34,Female,Low,High
+Diabetes,No,No,Yes,No,77,Female,Normal,High
+Diabetes,No,No,Yes,No,35,Male,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,41,Male,Low,Low
+Hypertension,No,No,Yes,No,62,Female,High,High
+Common Cold,Yes,Yes,Yes,No,42,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,74,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,74,Male,Normal,Low
+Asthma,No,Yes,Yes,Yes,31,Female,High,Low
+Hypertension,No,No,Yes,No,64,Female,Normal,Low
+Common Cold,Yes,Yes,No,No,59,Male,Normal,Low
+Asthma,No,Yes,No,Yes,43,Male,Low,Low
+Asthma,No,Yes,Yes,Yes,21,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,79,Female,High,High
+Asthma,No,Yes,No,Yes,12,Male,Normal,Low
+Diabetes,No,No,Yes,No,70,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,28,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,66,Male,Low,High
+Hypertension,No,No,Yes,No,66,Female,Normal,High
+Anemia,No,No,Yes,No,44,Male,Normal,Low
+Hypertension,No,No,Yes,No,37,Female,Low,High
+Common Cold,Yes,Yes,Yes,No,76,Female,Low,Normal
+Anemia,No,No,Yes,No,34,Male,Normal,High
+Common Cold,Yes,Yes,No,No,41,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,71,Female,Low,High
+Hypertension,No,No,Yes,No,34,Female,Normal,Low
+Hypertension,No,No,Yes,No,79,Male,High,High
+COVID-19,Yes,Yes,Yes,No,30,Female,Low,Low
+Anemia,No,No,Yes,No,49,Female,Low,Low
+Anemia,No,No,Yes,No,64,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,No,79,Female,Normal,Normal
+Anemia,No,No,Yes,No,10,Female,Normal,High
+Common Cold,Yes,Yes,No,No,29,Female,Normal,Normal
+Anemia,No,No,Yes,No,11,Male,High,Low
+Anemia,No,No,Yes,No,52,Female,High,Low
+Anemia,No,No,Yes,No,22,Female,Normal,Normal
+Anemia,No,No,Yes,No,78,Male,High,High
+COVID-19,Yes,Yes,Yes,Yes,70,Female,Low,Normal
+Asthma,No,Yes,Yes,Yes,26,Male,Low,Normal
+Anemia,No,No,Yes,No,30,Male,Normal,Normal
+Hypertension,No,No,Yes,No,72,Male,Low,Normal
+Hypertension,No,No,Yes,No,31,Male,Low,High
+Anemia,No,No,Yes,No,56,Female,Normal,Low
+Asthma,No,Yes,No,Yes,39,Female,Low,High
+Hypertension,No,No,Yes,No,15,Female,Low,Normal
+Anemia,No,No,Yes,No,20,Female,High,Low
+COVID-19,Yes,Yes,Yes,No,17,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,65,Male,Normal,High
+Common Cold,Yes,Yes,No,No,49,Female,High,Normal
+Common Cold,Yes,Yes,Yes,No,79,Female,High,Low
+Diabetes,No,No,Yes,No,53,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,37,Female,High,High
+Asthma,No,Yes,No,Yes,27,Male,Low,High
+Hypertension,No,No,Yes,No,38,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,24,Male,Normal,High
+Anemia,No,No,Yes,No,57,Male,High,Normal
+Diabetes,No,No,Yes,No,23,Male,Low,Normal
+Anemia,No,No,Yes,No,25,Male,High,Low
+Hypertension,No,No,Yes,No,35,Female,High,High
+Asthma,No,Yes,No,Yes,44,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,44,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,28,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,10,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,23,Male,Low,High
+COVID-19,Yes,Yes,Yes,Yes,17,Male,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,67,Female,Low,High
+Diabetes,No,No,Yes,No,15,Male,High,Normal
+Common Cold,Yes,Yes,Yes,No,11,Male,Low,Low
+Anemia,No,No,Yes,No,80,Female,Low,Normal
+Hypertension,No,No,Yes,No,56,Female,Normal,Low
+Common Cold,Yes,Yes,No,No,22,Male,Low,Normal
+Hypertension,No,No,Yes,No,27,Female,High,Low
+Asthma,No,Yes,No,Yes,79,Female,Normal,Low
+Anemia,No,No,Yes,No,54,Female,High,Low
+Asthma,No,Yes,No,Yes,42,Female,Low,Low
+Diabetes,No,No,Yes,No,30,Female,Normal,Low
+Common Cold,Yes,Yes,No,No,13,Male,Low,Low
+Diabetes,No,No,Yes,No,75,Male,Normal,Normal
+Hypertension,No,No,Yes,No,34,Female,High,High
+Asthma,No,Yes,No,Yes,78,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,43,Female,High,Normal
+Hypertension,No,No,Yes,No,48,Male,High,Normal
+Diabetes,No,No,Yes,No,28,Female,High,Low
+Hypertension,No,No,Yes,No,36,Male,Low,Normal
+Asthma,No,Yes,No,Yes,61,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,54,Male,High,High
+Hypertension,No,No,Yes,No,77,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,12,Male,High,Normal
+Diabetes,No,No,Yes,No,14,Male,Normal,High
+Asthma,No,Yes,No,Yes,27,Male,Low,Normal
+Asthma,No,Yes,No,Yes,59,Male,Normal,Normal
+Anemia,No,No,Yes,No,61,Female,High,Normal
+Diabetes,No,No,Yes,No,38,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,79,Female,Low,Low
+Hypertension,No,No,Yes,No,30,Female,Normal,Normal
+Anemia,No,No,Yes,No,58,Female,High,High
+Asthma,No,Yes,Yes,Yes,35,Female,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,14,Female,Normal,Normal
+Diabetes,No,No,Yes,No,58,Male,Normal,Low
+Anemia,No,No,Yes,No,74,Male,High,Normal
+Anemia,No,No,Yes,No,74,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,32,Female,High,Low
+Common Cold,Yes,Yes,No,No,58,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,60,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,28,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,57,Female,Low,Low
+Diabetes,No,No,Yes,No,25,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,67,Female,Low,High
+Diabetes,No,No,Yes,No,78,Female,Normal,Normal
+Diabetes,No,No,Yes,No,35,Female,High,Normal
+Common Cold,Yes,Yes,Yes,No,60,Female,Low,High
+Common Cold,Yes,Yes,No,No,10,Female,Low,High
+Diabetes,No,No,Yes,No,23,Female,High,Normal
+Hypertension,No,No,Yes,No,25,Female,Low,Low
+COVID-19,Yes,Yes,Yes,No,27,Male,Normal,High
+Diabetes,No,No,Yes,No,13,Female,High,Normal
+Hypertension,No,No,Yes,No,50,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,67,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,69,Male,High,Normal
+Asthma,No,Yes,Yes,Yes,51,Male,Low,Low
+Diabetes,No,No,Yes,No,76,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,76,Female,High,High
+Hypertension,No,No,Yes,No,54,Female,Low,High
+Anemia,No,No,Yes,No,61,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,28,Male,Low,Normal
+Anemia,No,No,Yes,No,61,Female,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,10,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,31,Male,Low,Normal
+Anemia,No,No,Yes,No,39,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,Low
+Hypertension,No,No,Yes,No,38,Female,High,High
+Hypertension,No,No,Yes,No,34,Female,High,High
+COVID-19,Yes,Yes,Yes,No,30,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,54,Female,High,High
+Asthma,No,Yes,Yes,Yes,66,Female,High,Normal
+COVID-19,Yes,Yes,Yes,No,31,Male,Normal,High
+Common Cold,Yes,Yes,Yes,No,76,Male,Normal,Normal
+Anemia,No,No,Yes,No,69,Female,High,Low
+Anemia,No,No,Yes,No,10,Male,Low,Normal
+Hypertension,No,No,Yes,No,55,Male,Low,Low
+Anemia,No,No,Yes,No,28,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,80,Female,Normal,High
+Anemia,No,No,Yes,No,11,Male,Normal,High
+Asthma,No,Yes,No,Yes,47,Female,Normal,High
+Diabetes,No,No,Yes,No,73,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,No,31,Male,High,Low
+COVID-19,Yes,Yes,Yes,Yes,80,Female,Low,High
+Anemia,No,No,Yes,No,40,Female,High,Normal
+Asthma,No,Yes,No,Yes,27,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,45,Female,Low,High
+Asthma,No,Yes,No,Yes,23,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,20,Male,High,Low
+Diabetes,No,No,Yes,No,17,Male,Low,Normal
+Diabetes,No,No,Yes,No,50,Male,Low,High
+Hypertension,No,No,Yes,No,22,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,56,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,78,Female,Low,Normal
+Hypertension,No,No,Yes,No,41,Male,Normal,High
+Diabetes,No,No,Yes,No,66,Male,Low,High
+Hypertension,No,No,Yes,No,74,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,20,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,33,Female,Normal,Low
+Diabetes,No,No,Yes,No,26,Female,Low,High
+Anemia,No,No,Yes,No,74,Male,Normal,Normal
+Diabetes,No,No,Yes,No,52,Female,Normal,Normal
+Diabetes,No,No,Yes,No,22,Male,High,High
+Common Cold,Yes,Yes,Yes,No,52,Female,High,Normal
+Hypertension,No,No,Yes,No,73,Female,High,Normal
+Diabetes,No,No,Yes,No,35,Male,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,46,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,22,Female,Normal,Low
+COVID-19,Yes,Yes,Yes,No,33,Male,Normal,Low
+Diabetes,No,No,Yes,No,19,Female,Normal,High
+Hypertension,No,No,Yes,No,40,Male,Low,Normal
+Anemia,No,No,Yes,No,50,Female,Low,High
+Anemia,No,No,Yes,No,21,Female,High,Low
+Diabetes,No,No,Yes,No,53,Female,High,Normal
+Anemia,No,No,Yes,No,77,Female,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,40,Female,High,High
+Diabetes,No,No,Yes,No,80,Male,Normal,Normal
+Diabetes,No,No,Yes,No,76,Male,High,Normal
+Asthma,No,Yes,Yes,Yes,70,Female,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,52,Female,Low,High
+Diabetes,No,No,Yes,No,10,Female,High,Low
+Anemia,No,No,Yes,No,12,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,64,Female,Low,Normal
+Hypertension,No,No,Yes,No,76,Female,Normal,Normal
+Diabetes,No,No,Yes,No,47,Male,Normal,Normal
+Diabetes,No,No,Yes,No,12,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,22,Male,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,27,Male,Normal,Normal
+Asthma,No,Yes,Yes,Yes,77,Male,Normal,Low
+Hypertension,No,No,Yes,No,23,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,54,Male,High,Low
+Asthma,No,Yes,Yes,Yes,25,Female,Low,Normal
+Asthma,No,Yes,No,Yes,39,Male,Normal,Low
+Diabetes,No,No,Yes,No,58,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,29,Female,High,Normal
+Common Cold,Yes,Yes,Yes,No,18,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,15,Male,Normal,High
+Diabetes,No,No,Yes,No,79,Male,High,Normal
+Anemia,No,No,Yes,No,28,Male,High,High
+Diabetes,No,No,Yes,No,46,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,No,33,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,24,Female,High,Normal
+Diabetes,No,No,Yes,No,33,Female,Low,Low
+Hypertension,No,No,Yes,No,37,Male,High,Normal
+Hypertension,No,No,Yes,No,59,Female,High,Normal
+Hypertension,No,No,Yes,No,37,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,54,Male,High,Normal
+Asthma,No,Yes,Yes,Yes,27,Female,Low,Normal
+Asthma,No,Yes,Yes,Yes,65,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,48,Male,Normal,Low
+Common Cold,Yes,Yes,No,No,34,Male,High,Normal
+Diabetes,No,No,Yes,No,71,Male,High,Normal
+Common Cold,Yes,Yes,Yes,No,51,Female,Low,Low
+Hypertension,No,No,Yes,No,66,Female,Normal,Normal
+Diabetes,No,No,Yes,No,44,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,68,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,23,Male,High,Normal
+Diabetes,No,No,Yes,No,52,Male,High,Normal
+Anemia,No,No,Yes,No,25,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,51,Female,Normal,High
+Common Cold,Yes,Yes,Yes,No,65,Male,Normal,Normal
+Hypertension,No,No,Yes,No,39,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,43,Female,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,76,Female,Normal,Normal
+Anemia,No,No,Yes,No,54,Male,Normal,High
+Diabetes,No,No,Yes,No,77,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,36,Female,High,High
+Common Cold,Yes,Yes,No,No,17,Male,Normal,Normal
+Anemia,No,No,Yes,No,36,Female,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,37,Female,High,Low
+COVID-19,Yes,Yes,Yes,Yes,13,Male,Low,High
+Hypertension,No,No,Yes,No,11,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,79,Male,High,High
+Anemia,No,No,Yes,No,35,Female,High,High
+Common Cold,Yes,Yes,Yes,No,53,Female,Normal,High
+Diabetes,No,No,Yes,No,19,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,73,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,36,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,68,Male,Low,High
+Common Cold,Yes,Yes,No,No,33,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,80,Female,Low,High
+COVID-19,Yes,Yes,Yes,No,39,Male,Normal,Normal
+Asthma,No,Yes,Yes,Yes,29,Female,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,56,Female,Low,High
+Diabetes,No,No,Yes,No,58,Female,High,High
+Anemia,No,No,Yes,No,79,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,17,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Low,High
+Hypertension,No,No,Yes,No,47,Female,Low,Normal
+Hypertension,No,No,Yes,No,10,Male,Low,High
+Asthma,No,Yes,No,Yes,48,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,13,Male,High,Normal
+Hypertension,No,No,Yes,No,43,Female,Low,High
+Hypertension,No,No,Yes,No,72,Male,Low,High
+Diabetes,No,No,Yes,No,12,Female,Low,Normal
+Hypertension,No,No,Yes,No,78,Male,High,Low
+COVID-19,Yes,Yes,Yes,No,34,Male,Normal,High
+COVID-19,Yes,Yes,Yes,No,76,Female,Normal,Low
+Anemia,No,No,Yes,No,77,Female,Normal,Normal
+Diabetes,No,No,Yes,No,15,Female,Low,Normal
+Anemia,No,No,Yes,No,31,Female,High,Normal
+Common Cold,Yes,Yes,No,No,48,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,21,Female,Low,High
+Diabetes,No,No,Yes,No,35,Female,Low,High
+Asthma,No,Yes,Yes,Yes,16,Female,High,Low
+Diabetes,No,No,Yes,No,58,Female,High,High
+Common Cold,Yes,Yes,Yes,No,47,Female,High,Low
+Anemia,No,No,Yes,No,71,Female,High,Normal
+Anemia,No,No,Yes,No,69,Female,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,72,Female,Normal,High
+Asthma,No,Yes,No,Yes,59,Male,High,Normal
+Hypertension,No,No,Yes,No,45,Female,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,79,Male,High,High
+Diabetes,No,No,Yes,No,70,Male,Low,High
+Diabetes,No,No,Yes,No,32,Male,Low,High
+Common Cold,Yes,Yes,No,No,61,Female,High,High
+Anemia,No,No,Yes,No,18,Female,Low,Normal
+Asthma,No,Yes,No,Yes,67,Male,High,Low
+Diabetes,No,No,Yes,No,57,Male,Normal,High
+COVID-19,Yes,Yes,Yes,No,68,Male,Normal,Low
+Hypertension,No,No,Yes,No,44,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,74,Female,Low,High
+Anemia,No,No,Yes,No,40,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,68,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,73,Female,High,Normal
+Diabetes,No,No,Yes,No,31,Male,High,Low
+Anemia,No,No,Yes,No,20,Male,High,High
+Common Cold,Yes,Yes,No,No,50,Male,Normal,High
+Diabetes,No,No,Yes,No,69,Male,Normal,Normal
+Anemia,No,No,Yes,No,77,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,13,Male,Low,Low
+Diabetes,No,No,Yes,No,18,Female,Normal,Low
+Anemia,No,No,Yes,No,67,Female,High,Normal
+Anemia,No,No,Yes,No,23,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,45,Female,Normal,Low
+Common Cold,Yes,Yes,Yes,No,24,Male,High,High
+Diabetes,No,No,Yes,No,12,Male,High,Low
+Anemia,No,No,Yes,No,54,Male,Normal,Normal
+Anemia,No,No,Yes,No,67,Male,Low,Normal
+Common Cold,Yes,Yes,No,No,27,Male,Normal,Low
+Anemia,No,No,Yes,No,38,Female,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,66,Male,Low,High
+Hypertension,No,No,Yes,No,24,Male,Low,Low
+Asthma,No,Yes,No,Yes,39,Female,High,Normal
+Common Cold,Yes,Yes,No,No,69,Female,High,Low
+Common Cold,Yes,Yes,No,No,80,Male,Normal,Low
+Asthma,No,Yes,No,Yes,13,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,49,Female,High,Normal
+Asthma,No,Yes,Yes,Yes,23,Female,Low,High
+Diabetes,No,No,Yes,No,70,Female,High,Low
+Diabetes,No,No,Yes,No,14,Female,Normal,High
+Diabetes,No,No,Yes,No,69,Male,Low,High
+Diabetes,No,No,Yes,No,74,Male,Normal,Low
+Anemia,No,No,Yes,No,36,Male,Normal,Low
+Hypertension,No,No,Yes,No,31,Male,High,Low
+Common Cold,Yes,Yes,No,No,33,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,21,Male,Low,Normal
+Anemia,No,No,Yes,No,54,Female,Low,High
+COVID-19,Yes,Yes,Yes,No,11,Male,High,High
+Diabetes,No,No,Yes,No,60,Female,Low,High
+COVID-19,Yes,Yes,Yes,No,38,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,65,Male,High,Low
+Hypertension,No,No,Yes,No,69,Male,Normal,Low
+Anemia,No,No,Yes,No,23,Female,Normal,Normal
+Diabetes,No,No,Yes,No,51,Female,Normal,Low
+Common Cold,Yes,Yes,Yes,No,12,Male,High,High
+Hypertension,No,No,Yes,No,13,Female,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,63,Female,Low,High
+Diabetes,No,No,Yes,No,36,Male,High,High
+Common Cold,Yes,Yes,No,No,27,Male,Low,High
+Anemia,No,No,Yes,No,58,Female,Normal,High
+COVID-19,Yes,Yes,Yes,No,17,Male,High,High
+Diabetes,No,No,Yes,No,41,Female,Low,Low
+Asthma,No,Yes,Yes,Yes,62,Male,Normal,Low
+Asthma,No,Yes,Yes,Yes,39,Male,High,High
+Hypertension,No,No,Yes,No,60,Male,Normal,Low
+Asthma,No,Yes,No,Yes,71,Male,Normal,Low
+Diabetes,No,No,Yes,No,31,Male,Low,Low
+Common Cold,Yes,Yes,No,No,44,Male,Normal,Normal
+Anemia,No,No,Yes,No,13,Female,High,Normal
+Asthma,No,Yes,Yes,Yes,28,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,15,Male,High,High
+COVID-19,Yes,Yes,Yes,No,11,Female,Normal,Low
+Anemia,No,No,Yes,No,76,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,76,Male,Low,Low
+Diabetes,No,No,Yes,No,60,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,16,Female,Normal,Low
+Diabetes,No,No,Yes,No,45,Male,High,Normal
+Common Cold,Yes,Yes,Yes,No,11,Male,High,Low
+Common Cold,Yes,Yes,No,No,38,Female,Low,High
+COVID-19,Yes,Yes,Yes,No,18,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,71,Female,Normal,Normal
+Anemia,No,No,Yes,No,75,Female,Normal,High
+Asthma,No,Yes,No,Yes,19,Male,Low,Normal
+Diabetes,No,No,Yes,No,13,Female,High,High
+Diabetes,No,No,Yes,No,38,Female,Normal,High
+Common Cold,Yes,Yes,No,No,42,Male,High,High
+Asthma,No,Yes,Yes,Yes,74,Female,Normal,Low
+Asthma,No,Yes,No,Yes,57,Female,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,18,Male,Low,High
+Diabetes,No,No,Yes,No,79,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,33,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,69,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,70,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,55,Male,Low,High
+Hypertension,No,No,Yes,No,25,Female,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,30,Male,Low,High
+Hypertension,No,No,Yes,No,72,Female,High,High
+Diabetes,No,No,Yes,No,13,Male,Low,High
+COVID-19,Yes,Yes,Yes,No,15,Female,High,High
+COVID-19,Yes,Yes,Yes,No,49,Female,High,Low
+Hypertension,No,No,Yes,No,72,Male,Normal,Low
+Asthma,No,Yes,No,Yes,25,Female,Low,Normal
+Hypertension,No,No,Yes,No,78,Male,Low,Normal
+Anemia,No,No,Yes,No,22,Female,Normal,Low
+Common Cold,Yes,Yes,Yes,No,54,Male,High,Normal
+Anemia,No,No,Yes,No,41,Male,Normal,High
+Diabetes,No,No,Yes,No,57,Male,Low,High
+Anemia,No,No,Yes,No,52,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,61,Female,High,Low
+Common Cold,Yes,Yes,No,No,14,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,37,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,51,Female,Low,High
+Common Cold,Yes,Yes,No,No,33,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,59,Female,Normal,Normal
+Hypertension,No,No,Yes,No,21,Male,High,Low
+Anemia,No,No,Yes,No,67,Male,Low,Low
+Hypertension,No,No,Yes,No,27,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,28,Female,High,High
+Asthma,No,Yes,No,Yes,79,Male,High,Low
+Common Cold,Yes,Yes,No,No,19,Female,High,High
+Anemia,No,No,Yes,No,17,Female,Normal,High
+Common Cold,Yes,Yes,No,No,17,Female,Normal,Normal
+Diabetes,No,No,Yes,No,64,Male,Normal,High
+COVID-19,Yes,Yes,Yes,No,27,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,74,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,58,Male,Low,Normal
+Diabetes,No,No,Yes,No,55,Female,Low,High
+Diabetes,No,No,Yes,No,17,Female,Normal,High
+Asthma,No,Yes,No,Yes,11,Male,Normal,Low
+Common Cold,Yes,Yes,No,No,36,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,No,66,Female,High,High
+Asthma,No,Yes,Yes,Yes,42,Female,Low,Low
+Hypertension,No,No,Yes,No,67,Male,High,Normal
+Hypertension,No,No,Yes,No,32,Male,Low,Normal
+Diabetes,No,No,Yes,No,68,Male,Low,Normal
+Common Cold,Yes,Yes,No,No,68,Female,Normal,High
+Common Cold,Yes,Yes,No,No,59,Male,Low,Low
+Hypertension,No,No,Yes,No,63,Female,Normal,Normal
+Hypertension,No,No,Yes,No,76,Male,Normal,High
+Anemia,No,No,Yes,No,61,Male,Normal,Low
+Diabetes,No,No,Yes,No,49,Female,Normal,High
+Common Cold,Yes,Yes,No,No,33,Female,Normal,Normal
+Hypertension,No,No,Yes,No,79,Male,Normal,High
+Common Cold,Yes,Yes,Yes,No,55,Female,Normal,Normal
+Asthma,No,Yes,Yes,Yes,74,Female,High,Low
+Anemia,No,No,Yes,No,78,Female,Normal,Normal
+Asthma,No,Yes,No,Yes,41,Female,High,Low
+COVID-19,Yes,Yes,Yes,No,47,Female,Low,Low
+COVID-19,Yes,Yes,Yes,No,60,Male,High,Normal
+Common Cold,Yes,Yes,No,No,21,Female,Normal,High
+Anemia,No,No,Yes,No,59,Female,Low,Low
+Anemia,No,No,Yes,No,46,Male,Normal,High
+Common Cold,Yes,Yes,Yes,No,34,Male,High,Normal
+Common Cold,Yes,Yes,Yes,No,36,Male,High,Normal
+Asthma,No,Yes,No,Yes,52,Male,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,32,Male,Low,Normal
+Anemia,No,No,Yes,No,23,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,64,Female,Normal,Normal
+Common Cold,Yes,Yes,No,No,70,Male,Low,Normal
+Asthma,No,Yes,No,Yes,40,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,19,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,17,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,23,Female,High,High
+Asthma,No,Yes,No,Yes,69,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,58,Female,Normal,Low
+Anemia,No,No,Yes,No,10,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,11,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,21,Female,Low,High
+Hypertension,No,No,Yes,No,51,Male,High,High
+Common Cold,Yes,Yes,No,No,65,Male,Normal,High
+Diabetes,No,No,Yes,No,76,Female,Normal,Low
+Anemia,No,No,Yes,No,53,Female,Low,Normal
+Hypertension,No,No,Yes,No,75,Male,Normal,Low
+Anemia,No,No,Yes,No,11,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,78,Female,Normal,Low
+Hypertension,No,No,Yes,No,75,Male,High,Normal
+Hypertension,No,No,Yes,No,34,Male,High,Normal
+Anemia,No,No,Yes,No,73,Female,Normal,Normal
+Asthma,No,Yes,No,Yes,67,Male,Low,Normal
+Hypertension,No,No,Yes,No,36,Male,High,Low
+Diabetes,No,No,Yes,No,20,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,18,Female,Normal,Normal
+Anemia,No,No,Yes,No,75,Female,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,73,Female,Low,Normal
+Anemia,No,No,Yes,No,11,Male,High,Low
+Diabetes,No,No,Yes,No,63,Male,High,Low
+Asthma,No,Yes,Yes,Yes,21,Female,Normal,High
+Common Cold,Yes,Yes,Yes,No,20,Male,High,Normal
+Diabetes,No,No,Yes,No,28,Male,Normal,High
+Common Cold,Yes,Yes,Yes,No,33,Female,Normal,Low
+Anemia,No,No,Yes,No,40,Female,Low,High
+COVID-19,Yes,Yes,Yes,No,52,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,63,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,69,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,12,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,14,Female,Normal,Normal
+Anemia,No,No,Yes,No,65,Female,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,22,Female,Normal,High
+Diabetes,No,No,Yes,No,63,Female,Normal,Low
+Diabetes,No,No,Yes,No,25,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,15,Female,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,30,Female,Low,High
+Anemia,No,No,Yes,No,29,Male,Normal,Normal
+Anemia,No,No,Yes,No,51,Female,Normal,Low
+Anemia,No,No,Yes,No,24,Male,High,High
+Asthma,No,Yes,Yes,Yes,21,Male,Normal,Low
+Hypertension,No,No,Yes,No,44,Female,Low,Normal
+Hypertension,No,No,Yes,No,19,Female,Normal,High
+Common Cold,Yes,Yes,Yes,No,19,Male,Normal,High
+Common Cold,Yes,Yes,No,No,61,Female,Low,Low
+Common Cold,Yes,Yes,No,No,17,Male,Low,Low
+Anemia,No,No,Yes,No,47,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,60,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,13,Female,Low,High
+Diabetes,No,No,Yes,No,26,Female,Normal,Normal
+Diabetes,No,No,Yes,No,43,Male,Low,Low
+Anemia,No,No,Yes,No,54,Female,Low,Low
+Hypertension,No,No,Yes,No,62,Male,Low,Normal
+Common Cold,Yes,Yes,Yes,No,77,Male,Low,High
+Diabetes,No,No,Yes,No,21,Male,Low,High
+Diabetes,No,No,Yes,No,32,Male,High,High
+Common Cold,Yes,Yes,Yes,No,64,Male,High,High
+COVID-19,Yes,Yes,Yes,Yes,59,Female,Low,Low
+Asthma,No,Yes,Yes,Yes,58,Female,Low,Low
+Anemia,No,No,Yes,No,22,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,59,Male,Low,Normal
+Diabetes,No,No,Yes,No,11,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,68,Female,High,Low
+COVID-19,Yes,Yes,Yes,Yes,36,Female,Low,High
+Anemia,No,No,Yes,No,62,Female,High,High
+Diabetes,No,No,Yes,No,35,Female,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,44,Male,High,Low
+Diabetes,No,No,Yes,No,39,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,54,Female,Normal,Normal
+Diabetes,No,No,Yes,No,66,Female,High,Normal
+Diabetes,No,No,Yes,No,65,Female,Normal,High
+Diabetes,No,No,Yes,No,31,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,49,Male,Normal,Low
+Asthma,No,Yes,Yes,Yes,12,Female,Low,Low
+Common Cold,Yes,Yes,Yes,No,60,Female,Low,Low
+Hypertension,No,No,Yes,No,49,Female,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,40,Female,High,Low
+Common Cold,Yes,Yes,No,No,71,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,74,Female,Low,Normal
+Common Cold,Yes,Yes,No,No,69,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,36,Female,High,High
+Common Cold,Yes,Yes,Yes,No,70,Female,Low,Low
+Common Cold,Yes,Yes,Yes,No,15,Male,High,Low
+Anemia,No,No,Yes,No,39,Male,Low,High
+Common Cold,Yes,Yes,No,No,73,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,34,Female,Low,Low
+COVID-19,Yes,Yes,Yes,No,77,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,24,Female,High,Low
+Hypertension,No,No,Yes,No,28,Male,Low,Normal
+Hypertension,No,No,Yes,No,27,Female,Low,High
+Diabetes,No,No,Yes,No,25,Male,Low,Low
+Asthma,No,Yes,No,Yes,30,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,15,Female,Normal,Low
+Hypertension,No,No,Yes,No,23,Male,High,Low
+Hypertension,No,No,Yes,No,23,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,59,Male,Low,Normal
+Diabetes,No,No,Yes,No,65,Female,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,12,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,17,Male,Normal,Low
+Common Cold,Yes,Yes,Yes,No,54,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,70,Female,Normal,Low
+Common Cold,Yes,Yes,Yes,No,53,Male,Low,Normal
+Diabetes,No,No,Yes,No,62,Female,Normal,High
+Hypertension,No,No,Yes,No,24,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,72,Male,Normal,High
+Common Cold,Yes,Yes,Yes,No,70,Female,Normal,High
+Anemia,No,No,Yes,No,32,Female,Low,High
+Diabetes,No,No,Yes,No,14,Male,Normal,Normal
+Asthma,No,Yes,Yes,Yes,68,Female,High,High
+Diabetes,No,No,Yes,No,43,Male,High,Low
+Hypertension,No,No,Yes,No,20,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,33,Female,High,High
+Common Cold,Yes,Yes,Yes,No,69,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,26,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,25,Male,Low,Low
+Common Cold,Yes,Yes,Yes,No,11,Male,Low,High
+COVID-19,Yes,Yes,Yes,No,49,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,No,46,Male,Normal,Normal
+Asthma,No,Yes,Yes,Yes,73,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,40,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,27,Female,Normal,Normal
+Diabetes,No,No,Yes,No,42,Male,Normal,High
+Diabetes,No,No,Yes,No,70,Male,High,Normal
+Common Cold,Yes,Yes,No,No,79,Male,Low,Low
+Common Cold,Yes,Yes,No,No,69,Female,High,Low
+Hypertension,No,No,Yes,No,68,Female,Low,Low
+Common Cold,Yes,Yes,Yes,No,55,Female,High,Low
+Hypertension,No,No,Yes,No,10,Female,High,Low
+Anemia,No,No,Yes,No,76,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,10,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,19,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,46,Female,Normal,High
+Diabetes,No,No,Yes,No,29,Female,Normal,High
+Anemia,No,No,Yes,No,11,Male,High,High
+Diabetes,No,No,Yes,No,22,Male,Normal,High
+Asthma,No,Yes,No,Yes,23,Female,High,Normal
+Anemia,No,No,Yes,No,22,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,44,Male,High,Low
+Hypertension,No,No,Yes,No,23,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,32,Female,High,Normal
+Hypertension,No,No,Yes,No,20,Male,Low,Normal
+Common Cold,Yes,Yes,No,No,23,Female,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,69,Female,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,41,Male,Low,High
+Hypertension,No,No,Yes,No,17,Male,Normal,High
+Diabetes,No,No,Yes,No,73,Female,Low,Low
+Hypertension,No,No,Yes,No,72,Female,High,Normal
+Anemia,No,No,Yes,No,28,Female,Normal,Normal
+Asthma,No,Yes,Yes,Yes,42,Male,High,High
+Common Cold,Yes,Yes,Yes,No,55,Male,Normal,Low
+Anemia,No,No,Yes,No,22,Male,High,Normal
+Diabetes,No,No,Yes,No,10,Male,Normal,Normal
+Asthma,No,Yes,No,Yes,12,Male,Normal,Normal
+Diabetes,No,No,Yes,No,42,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,70,Female,High,Low
+Anemia,No,No,Yes,No,80,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,32,Male,High,High
+Hypertension,No,No,Yes,No,27,Female,Low,High
+Hypertension,No,No,Yes,No,40,Male,Low,Normal
+Asthma,No,Yes,No,Yes,41,Female,High,Normal
+Asthma,No,Yes,Yes,Yes,37,Female,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,42,Female,Low,High
+Asthma,No,Yes,No,Yes,28,Male,High,High
+Diabetes,No,No,Yes,No,33,Female,High,High
+COVID-19,Yes,Yes,Yes,Yes,79,Male,Normal,Normal
+Anemia,No,No,Yes,No,59,Female,High,High
+Asthma,No,Yes,Yes,Yes,66,Female,Normal,Normal
+Diabetes,No,No,Yes,No,21,Female,Normal,Normal
+Hypertension,No,No,Yes,No,23,Male,Low,Low
+Asthma,No,Yes,Yes,Yes,13,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,65,Male,Low,High
+Diabetes,No,No,Yes,No,54,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,27,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,75,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,16,Female,Low,Normal
+Hypertension,No,No,Yes,No,65,Male,High,Normal
+Common Cold,Yes,Yes,Yes,No,57,Male,High,High
+Anemia,No,No,Yes,No,49,Female,Low,Normal
+Hypertension,No,No,Yes,No,79,Male,Low,High
+COVID-19,Yes,Yes,Yes,No,54,Male,Low,Normal
+Diabetes,No,No,Yes,No,24,Male,High,Low
+COVID-19,Yes,Yes,Yes,No,61,Male,Normal,High
+COVID-19,Yes,Yes,Yes,No,39,Female,High,Normal
+Anemia,No,No,Yes,No,68,Female,Low,High
+Anemia,No,No,Yes,No,49,Male,Normal,High
+Diabetes,No,No,Yes,No,60,Female,Normal,Normal
+Diabetes,No,No,Yes,No,17,Male,Low,Low
+Asthma,No,Yes,No,Yes,43,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,14,Male,High,High
+Diabetes,No,No,Yes,No,18,Female,Normal,Low
+Asthma,No,Yes,No,Yes,41,Male,High,Low
+Asthma,No,Yes,Yes,Yes,37,Female,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,26,Female,High,Low
+Anemia,No,No,Yes,No,31,Female,Low,Normal
+Hypertension,No,No,Yes,No,63,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,57,Male,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,41,Female,Normal,Low
+Diabetes,No,No,Yes,No,29,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,38,Male,High,High
+COVID-19,Yes,Yes,Yes,No,21,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,10,Male,Normal,High
+Anemia,No,No,Yes,No,33,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,75,Male,High,Normal
+Diabetes,No,No,Yes,No,77,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,71,Male,High,Low
+COVID-19,Yes,Yes,Yes,Yes,64,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,67,Female,Low,High
+Hypertension,No,No,Yes,No,58,Male,Normal,Low
+Common Cold,Yes,Yes,Yes,No,26,Female,Low,High
+Common Cold,Yes,Yes,No,No,29,Male,High,High
+Asthma,No,Yes,No,Yes,33,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,57,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,12,Female,High,Normal
+Common Cold,Yes,Yes,No,No,48,Female,High,Normal
+Asthma,No,Yes,Yes,Yes,16,Male,Low,Normal
+Diabetes,No,No,Yes,No,49,Female,Low,Normal
+Anemia,No,No,Yes,No,60,Female,High,Normal
+Common Cold,Yes,Yes,No,No,79,Female,Low,Low
+Hypertension,No,No,Yes,No,62,Male,High,Normal
+Diabetes,No,No,Yes,No,38,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,11,Female,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,51,Female,Normal,Low
+Anemia,No,No,Yes,No,36,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,73,Male,High,Low
+Asthma,No,Yes,No,Yes,35,Male,Normal,Low
+Hypertension,No,No,Yes,No,60,Male,High,High
+Common Cold,Yes,Yes,Yes,No,10,Female,Low,Normal
+Asthma,No,Yes,Yes,Yes,33,Male,High,Normal
+Anemia,No,No,Yes,No,12,Male,High,High
+COVID-19,Yes,Yes,Yes,Yes,26,Male,High,High
+Common Cold,Yes,Yes,Yes,No,36,Male,Normal,High
+Diabetes,No,No,Yes,No,45,Female,Normal,High
+Anemia,No,No,Yes,No,56,Female,High,Low
+COVID-19,Yes,Yes,Yes,Yes,55,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,57,Male,Low,High
+Anemia,No,No,Yes,No,40,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,44,Female,High,Low
+Anemia,No,No,Yes,No,45,Male,High,Normal
+Diabetes,No,No,Yes,No,35,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,26,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,76,Male,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,10,Female,Normal,Low
+Hypertension,No,No,Yes,No,43,Male,High,High
+Asthma,No,Yes,Yes,Yes,46,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,45,Female,Normal,High
+Diabetes,No,No,Yes,No,62,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,68,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,18,Male,High,Low
+Common Cold,Yes,Yes,Yes,No,30,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,59,Male,Normal,High
+Common Cold,Yes,Yes,Yes,No,27,Female,High,Normal
+Hypertension,No,No,Yes,No,48,Male,High,Low
+Asthma,No,Yes,No,Yes,19,Female,High,Normal
+COVID-19,Yes,Yes,Yes,No,43,Male,High,Normal
+Diabetes,No,No,Yes,No,69,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,52,Male,Low,High
+COVID-19,Yes,Yes,Yes,Yes,60,Male,High,Normal
+Anemia,No,No,Yes,No,45,Female,Normal,Normal
+Anemia,No,No,Yes,No,54,Male,Low,High
+Asthma,No,Yes,Yes,Yes,77,Male,Normal,Low
+Hypertension,No,No,Yes,No,20,Female,Low,High
+Anemia,No,No,Yes,No,70,Male,Low,Low
+Diabetes,No,No,Yes,No,48,Male,High,Normal
+Asthma,No,Yes,No,Yes,76,Female,High,High
+COVID-19,Yes,Yes,Yes,No,65,Female,Low,Normal
+Anemia,No,No,Yes,No,71,Male,Low,Low
+Asthma,No,Yes,Yes,Yes,80,Male,Normal,High
+Hypertension,No,No,Yes,No,59,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,75,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,73,Male,Normal,Low
+Hypertension,No,No,Yes,No,43,Male,Low,High
+Common Cold,Yes,Yes,No,No,25,Female,High,Low
+Anemia,No,No,Yes,No,11,Female,Normal,Normal
+Common Cold,Yes,Yes,No,No,61,Male,Low,Low
+Anemia,No,No,Yes,No,60,Female,Low,High
+Hypertension,No,No,Yes,No,59,Female,High,Low
+Diabetes,No,No,Yes,No,44,Female,Low,Low
+Common Cold,Yes,Yes,Yes,No,11,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,46,Female,Normal,High
+COVID-19,Yes,Yes,Yes,No,21,Female,High,Normal
+Hypertension,No,No,Yes,No,72,Male,Low,Low
+Common Cold,Yes,Yes,Yes,No,14,Female,High,Normal
+Diabetes,No,No,Yes,No,10,Male,Low,Normal
+Diabetes,No,No,Yes,No,18,Male,High,High
+Diabetes,No,No,Yes,No,41,Male,Normal,Low
+Common Cold,Yes,Yes,Yes,No,76,Female,Normal,Low
+Hypertension,No,No,Yes,No,29,Female,High,High
+Hypertension,No,No,Yes,No,10,Female,Low,High
+Diabetes,No,No,Yes,No,11,Male,Low,High
+Common Cold,Yes,Yes,No,No,48,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,78,Male,Normal,High
+Common Cold,Yes,Yes,No,No,25,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,No,39,Male,Low,Normal
+Common Cold,Yes,Yes,No,No,73,Male,Low,Normal
+Asthma,No,Yes,No,Yes,47,Male,Normal,Normal
+Anemia,No,No,Yes,No,53,Male,Normal,Normal
+Anemia,No,No,Yes,No,18,Male,Normal,Normal
+Hypertension,No,No,Yes,No,20,Male,Normal,Low
+Asthma,No,Yes,Yes,Yes,51,Female,High,Low
+Common Cold,Yes,Yes,No,No,66,Female,Low,Low
+Common Cold,Yes,Yes,No,No,68,Male,Low,High
+Hypertension,No,No,Yes,No,40,Male,Low,High
+Asthma,No,Yes,Yes,Yes,46,Female,Normal,High
+Hypertension,No,No,Yes,No,58,Male,Low,High
+Hypertension,No,No,Yes,No,34,Male,Normal,Normal
+Diabetes,No,No,Yes,No,25,Female,High,Low
+Asthma,No,Yes,No,Yes,75,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,21,Male,Low,High
+Asthma,No,Yes,No,Yes,13,Male,High,Low
+Common Cold,Yes,Yes,Yes,No,68,Female,Low,Normal
+Hypertension,No,No,Yes,No,57,Female,Normal,High
+Anemia,No,No,Yes,No,38,Female,High,Low
+Asthma,No,Yes,No,Yes,39,Male,Normal,Low
+Common Cold,Yes,Yes,No,No,10,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,11,Male,High,Low
+COVID-19,Yes,Yes,Yes,No,61,Female,Low,Normal
+Hypertension,No,No,Yes,No,18,Female,High,Low
+Diabetes,No,No,Yes,No,55,Male,High,Low
+Asthma,No,Yes,No,Yes,76,Female,High,Normal
+COVID-19,Yes,Yes,Yes,No,63,Male,High,High
+Asthma,No,Yes,Yes,Yes,31,Male,High,Normal
+Anemia,No,No,Yes,No,37,Female,High,Low
+Diabetes,No,No,Yes,No,78,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,43,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,59,Female,Low,Low
+COVID-19,Yes,Yes,Yes,No,75,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,20,Male,Low,Low
+Hypertension,No,No,Yes,No,25,Male,High,High
+Common Cold,Yes,Yes,Yes,No,51,Female,Normal,Normal
+Asthma,No,Yes,No,Yes,64,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,21,Female,Normal,Low
+Hypertension,No,No,Yes,No,40,Male,High,Low
+Anemia,No,No,Yes,No,27,Male,Normal,Low
+Common Cold,Yes,Yes,Yes,No,21,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,51,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,62,Female,Low,Normal
+Common Cold,Yes,Yes,No,No,68,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,64,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,43,Female,Normal,Normal
+Asthma,No,Yes,No,Yes,28,Male,High,High
+Diabetes,No,No,Yes,No,43,Female,Normal,Low
+Hypertension,No,No,Yes,No,14,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,68,Female,Low,Low
+Diabetes,No,No,Yes,No,16,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,14,Female,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,18,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,58,Female,Low,Low
+Hypertension,No,No,Yes,No,78,Female,High,Normal
+Common Cold,Yes,Yes,Yes,No,42,Male,Low,Low
+Common Cold,Yes,Yes,Yes,No,78,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,59,Female,High,Low
+Hypertension,No,No,Yes,No,25,Female,Normal,High
+Anemia,No,No,Yes,No,76,Male,Normal,Normal
+Anemia,No,No,Yes,No,41,Female,Normal,Low
+Hypertension,No,No,Yes,No,56,Male,High,Low
+Common Cold,Yes,Yes,Yes,No,15,Female,Normal,High
+Diabetes,No,No,Yes,No,26,Male,High,Low
+Hypertension,No,No,Yes,No,43,Male,Low,High
+COVID-19,Yes,Yes,Yes,No,68,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,32,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,26,Male,High,Low
+Asthma,No,Yes,No,Yes,37,Male,Low,High
+Asthma,No,Yes,No,Yes,79,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,79,Female,Low,Normal
+Diabetes,No,No,Yes,No,19,Male,Low,Normal
+Asthma,No,Yes,No,Yes,29,Male,Low,High
+Anemia,No,No,Yes,No,30,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,42,Female,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,24,Female,Normal,Low
+Anemia,No,No,Yes,No,27,Male,Low,Normal
+Diabetes,No,No,Yes,No,69,Male,High,High
+Anemia,No,No,Yes,No,62,Male,Low,Normal
+Asthma,No,Yes,No,Yes,67,Female,Low,Low
+Anemia,No,No,Yes,No,57,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,17,Female,High,Normal
+Common Cold,Yes,Yes,No,No,49,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,60,Male,Low,Low
+Common Cold,Yes,Yes,No,No,38,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,75,Female,Normal,High
+Hypertension,No,No,Yes,No,24,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,60,Male,Normal,Normal
+Hypertension,No,No,Yes,No,36,Female,High,Low
+Anemia,No,No,Yes,No,14,Female,High,Low
+Hypertension,No,No,Yes,No,59,Male,High,Normal
+Hypertension,No,No,Yes,No,60,Male,Low,High
+Diabetes,No,No,Yes,No,32,Male,Normal,High
+Common Cold,Yes,Yes,No,No,74,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,24,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,52,Male,Low,High
+Hypertension,No,No,Yes,No,76,Male,Normal,High
+Hypertension,No,No,Yes,No,15,Male,High,Normal
+Hypertension,No,No,Yes,No,19,Male,Normal,Low
+Anemia,No,No,Yes,No,17,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,65,Male,Low,Normal
+Hypertension,No,No,Yes,No,51,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,78,Female,High,Normal
+Anemia,No,No,Yes,No,63,Male,Low,High
+Hypertension,No,No,Yes,No,32,Male,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,46,Male,High,High
+Common Cold,Yes,Yes,Yes,No,61,Male,Low,Normal
+Asthma,No,Yes,No,Yes,22,Male,Low,Normal
+Diabetes,No,No,Yes,No,29,Female,High,Normal
+Common Cold,Yes,Yes,Yes,No,19,Male,High,High
+Asthma,No,Yes,Yes,Yes,67,Female,Low,Normal
+Hypertension,No,No,Yes,No,19,Female,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,69,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,69,Female,Normal,Low
+Anemia,No,No,Yes,No,45,Male,Normal,High
+Common Cold,Yes,Yes,No,No,42,Female,Low,Low
+Asthma,No,Yes,No,Yes,33,Male,Low,Normal
+Diabetes,No,No,Yes,No,62,Female,Normal,High
+Anemia,No,No,Yes,No,59,Male,Low,Low
+Asthma,No,Yes,Yes,Yes,42,Female,High,High
+COVID-19,Yes,Yes,Yes,No,38,Female,High,Normal
+COVID-19,Yes,Yes,Yes,No,14,Male,Normal,Normal
+Hypertension,No,No,Yes,No,55,Female,Normal,Normal
+Asthma,No,Yes,Yes,Yes,54,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,68,Female,Low,Normal
+Hypertension,No,No,Yes,No,48,Male,Normal,Low
+Diabetes,No,No,Yes,No,28,Male,High,Normal
+Hypertension,No,No,Yes,No,79,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,14,Male,Low,Normal
+Hypertension,No,No,Yes,No,40,Female,Low,Low
+Diabetes,No,No,Yes,No,71,Male,High,Normal
+Asthma,No,Yes,Yes,Yes,68,Male,Normal,High
+Common Cold,Yes,Yes,No,No,29,Male,Normal,Low
+Diabetes,No,No,Yes,No,22,Male,Low,High
+Hypertension,No,No,Yes,No,44,Female,Normal,High
+Common Cold,Yes,Yes,No,No,20,Male,Low,Normal
+Hypertension,No,No,Yes,No,33,Female,Normal,High
+Asthma,No,Yes,No,Yes,61,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,19,Male,Low,Low
+Anemia,No,No,Yes,No,69,Female,Low,Low
+Hypertension,No,No,Yes,No,10,Female,Low,High
+Anemia,No,No,Yes,No,27,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,39,Female,Low,Low
+COVID-19,Yes,Yes,Yes,No,68,Female,Low,Low
+Diabetes,No,No,Yes,No,21,Female,High,High
+COVID-19,Yes,Yes,Yes,No,80,Male,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,54,Female,Low,Low
+Asthma,No,Yes,No,Yes,10,Female,Low,Normal
+Hypertension,No,No,Yes,No,31,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,71,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,69,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,34,Female,High,High
+Anemia,No,No,Yes,No,35,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,80,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,73,Male,Normal,High
+Hypertension,No,No,Yes,No,61,Male,Low,High
+Asthma,No,Yes,No,Yes,32,Female,Low,Normal
+Hypertension,No,No,Yes,No,67,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,41,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,79,Female,High,Normal
+Anemia,No,No,Yes,No,18,Male,Low,Normal
+Anemia,No,No,Yes,No,29,Male,Normal,Normal
+Hypertension,No,No,Yes,No,46,Male,High,Low
+Anemia,No,No,Yes,No,45,Male,Normal,Low
+Hypertension,No,No,Yes,No,43,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,53,Female,High,High
+COVID-19,Yes,Yes,Yes,Yes,55,Female,High,High
+COVID-19,Yes,Yes,Yes,No,43,Male,High,Low
+COVID-19,Yes,Yes,Yes,No,50,Male,High,Low
+Diabetes,No,No,Yes,No,45,Male,High,Low
+Anemia,No,No,Yes,No,17,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,31,Female,High,High
+Hypertension,No,No,Yes,No,77,Female,Normal,High
+COVID-19,Yes,Yes,Yes,No,16,Female,Low,High
+Common Cold,Yes,Yes,Yes,No,17,Female,High,High
+COVID-19,Yes,Yes,Yes,No,20,Male,Low,Low
+Diabetes,No,No,Yes,No,17,Male,High,Low
+Hypertension,No,No,Yes,No,30,Male,Normal,Normal
+Diabetes,No,No,Yes,No,57,Male,Normal,High
+Hypertension,No,No,Yes,No,22,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,70,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,12,Male,Low,Low
+Hypertension,No,No,Yes,No,12,Male,High,High
+Anemia,No,No,Yes,No,19,Male,High,Low
+Anemia,No,No,Yes,No,68,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,No,32,Male,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,22,Male,Low,Normal
+Anemia,No,No,Yes,No,27,Male,Normal,Low
+Asthma,No,Yes,Yes,Yes,31,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,73,Female,Normal,Low
+Hypertension,No,No,Yes,No,19,Female,High,High
+Hypertension,No,No,Yes,No,57,Female,Normal,Low
+Diabetes,No,No,Yes,No,60,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,30,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,47,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,19,Male,Low,High
+Diabetes,No,No,Yes,No,35,Male,Low,Low
+Anemia,No,No,Yes,No,60,Male,High,High
+Hypertension,No,No,Yes,No,42,Female,Normal,Normal
+Asthma,No,Yes,No,Yes,45,Male,Normal,Normal
+Hypertension,No,No,Yes,No,39,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,70,Female,Low,Low
+Hypertension,No,No,Yes,No,44,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,28,Male,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,35,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,No,24,Male,Normal,Low
+Anemia,No,No,Yes,No,23,Female,Low,High
+Hypertension,No,No,Yes,No,73,Male,Low,High
+Diabetes,No,No,Yes,No,53,Female,Normal,Low
+Diabetes,No,No,Yes,No,75,Male,Normal,High
+Anemia,No,No,Yes,No,40,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,64,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,25,Female,High,High
+Asthma,No,Yes,Yes,Yes,20,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,25,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,47,Male,Low,Normal
+Diabetes,No,No,Yes,No,46,Male,Normal,High
+Diabetes,No,No,Yes,No,59,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,60,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,51,Female,Normal,Low
+Diabetes,No,No,Yes,No,36,Female,High,Normal
+Diabetes,No,No,Yes,No,72,Female,Normal,Low
+Diabetes,No,No,Yes,No,33,Female,High,Low
+Common Cold,Yes,Yes,No,No,77,Male,High,Low
+Common Cold,Yes,Yes,No,No,58,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,No,71,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,42,Female,Normal,High
+Anemia,No,No,Yes,No,35,Female,Low,High
+Asthma,No,Yes,Yes,Yes,40,Female,High,Normal
+Common Cold,Yes,Yes,No,No,18,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,75,Male,Normal,Normal
+Common Cold,Yes,Yes,No,No,71,Male,Low,Low
+COVID-19,Yes,Yes,Yes,No,78,Male,High,Low
+COVID-19,Yes,Yes,Yes,No,19,Male,High,Low
+Common Cold,Yes,Yes,Yes,No,38,Male,High,Low
+COVID-19,Yes,Yes,Yes,Yes,13,Female,High,High
+Asthma,No,Yes,No,Yes,49,Male,Low,High
+Hypertension,No,No,Yes,No,55,Male,Low,Normal
+Hypertension,No,No,Yes,No,14,Female,High,Low
+Anemia,No,No,Yes,No,32,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,50,Male,High,High
+Common Cold,Yes,Yes,No,No,38,Male,High,High
+Common Cold,Yes,Yes,No,No,12,Male,Low,High
+COVID-19,Yes,Yes,Yes,No,34,Female,Low,Normal
+Hypertension,No,No,Yes,No,55,Male,Normal,Normal
+Hypertension,No,No,Yes,No,69,Female,High,High
+Anemia,No,No,Yes,No,12,Female,High,Normal
+Hypertension,No,No,Yes,No,71,Male,High,Low
+Common Cold,Yes,Yes,No,No,48,Male,Normal,Normal
+Hypertension,No,No,Yes,No,20,Female,High,Normal
+Hypertension,No,No,Yes,No,46,Male,Normal,Normal
+Diabetes,No,No,Yes,No,58,Male,Normal,Low
+Asthma,No,Yes,No,Yes,12,Male,Low,Normal
+Common Cold,Yes,Yes,No,No,36,Female,Normal,Low
+Diabetes,No,No,Yes,No,72,Female,Low,Normal
+Asthma,No,Yes,Yes,Yes,62,Male,High,Normal
+Diabetes,No,No,Yes,No,60,Male,Normal,High
+Common Cold,Yes,Yes,No,No,43,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,No,50,Female,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,54,Female,Low,Low
+Asthma,No,Yes,Yes,Yes,58,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,13,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,18,Female,Normal,Low
+Hypertension,No,No,Yes,No,18,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,No,59,Male,Low,Low
+Anemia,No,No,Yes,No,70,Male,Normal,Low
+Asthma,No,Yes,No,Yes,65,Female,Normal,Low
+Common Cold,Yes,Yes,Yes,No,67,Female,Low,Normal
+Diabetes,No,No,Yes,No,11,Male,Low,Low
+Diabetes,No,No,Yes,No,38,Male,Low,Normal
+Anemia,No,No,Yes,No,74,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,54,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,41,Male,Normal,High
+Diabetes,No,No,Yes,No,33,Male,Normal,Low
+Hypertension,No,No,Yes,No,76,Male,Normal,Low
+Diabetes,No,No,Yes,No,52,Male,Low,Low
+Common Cold,Yes,Yes,Yes,No,37,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,52,Female,Normal,High
+Asthma,No,Yes,No,Yes,42,Male,High,Low
+Anemia,No,No,Yes,No,62,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,27,Male,Low,Normal
+Common Cold,Yes,Yes,No,No,79,Male,Low,Normal
+Diabetes,No,No,Yes,No,38,Female,High,Low
+Anemia,No,No,Yes,No,22,Female,Low,Normal
+Common Cold,Yes,Yes,Yes,No,13,Female,Low,High
+Asthma,No,Yes,Yes,Yes,55,Female,Low,Normal
+Asthma,No,Yes,No,Yes,21,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,40,Female,High,Normal
+Common Cold,Yes,Yes,No,No,40,Female,Normal,Low
+Common Cold,Yes,Yes,Yes,No,76,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,32,Female,Normal,Normal
+Common Cold,Yes,Yes,No,No,49,Male,High,Low
+Common Cold,Yes,Yes,No,No,55,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,14,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,43,Female,Normal,Low
+Diabetes,No,No,Yes,No,59,Female,Low,Low
+Common Cold,Yes,Yes,No,No,46,Male,Low,Normal
+Common Cold,Yes,Yes,No,No,48,Female,Normal,Normal
+Diabetes,No,No,Yes,No,73,Female,Low,Low
+Asthma,No,Yes,Yes,Yes,49,Female,Normal,Low
+Asthma,No,Yes,Yes,Yes,69,Male,High,High
+Diabetes,No,No,Yes,No,16,Female,High,High
+Asthma,No,Yes,No,Yes,67,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,No,64,Female,Low,Normal
+Anemia,No,No,Yes,No,53,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,77,Male,Low,Normal
+Hypertension,No,No,Yes,No,73,Female,High,Low
+Asthma,No,Yes,Yes,Yes,60,Female,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,11,Female,Normal,Low
+Hypertension,No,No,Yes,No,64,Female,Low,High
+Anemia,No,No,Yes,No,66,Female,Normal,Low
+Anemia,No,No,Yes,No,76,Male,High,High
+COVID-19,Yes,Yes,Yes,No,68,Female,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,66,Male,High,Normal
+Anemia,No,No,Yes,No,46,Male,Normal,High
+Anemia,No,No,Yes,No,56,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,35,Female,High,Normal
+Hypertension,No,No,Yes,No,70,Female,Normal,Low
+Hypertension,No,No,Yes,No,58,Female,Normal,High
+Anemia,No,No,Yes,No,57,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,27,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,Yes,20,Male,High,High
+Diabetes,No,No,Yes,No,38,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,71,Female,Low,Normal
+Diabetes,No,No,Yes,No,70,Female,High,Low
+Hypertension,No,No,Yes,No,50,Male,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,59,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,42,Female,High,Low
+Anemia,No,No,Yes,No,14,Female,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,49,Female,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,53,Female,Normal,High
+Asthma,No,Yes,Yes,Yes,21,Male,High,Normal
+Hypertension,No,No,Yes,No,59,Male,High,Low
+Diabetes,No,No,Yes,No,33,Female,Normal,Low
+Diabetes,No,No,Yes,No,20,Male,Normal,Low
+Common Cold,Yes,Yes,No,No,25,Female,Low,High
+Diabetes,No,No,Yes,No,80,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,27,Male,Normal,High
+COVID-19,Yes,Yes,Yes,No,58,Male,Normal,High
+Common Cold,Yes,Yes,Yes,No,48,Male,Low,Normal
+Pneumonia,Yes,Yes,Yes,Yes,53,Male,Normal,Low
+Asthma,No,Yes,Yes,Yes,53,Female,High,High
+Common Cold,Yes,Yes,No,No,29,Male,Low,Low
+Hypertension,No,No,Yes,No,12,Female,Low,Low
+Anemia,No,No,Yes,No,44,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,41,Female,High,Normal
+Diabetes,No,No,Yes,No,17,Female,Normal,Normal
+Diabetes,No,No,Yes,No,10,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,40,Male,Normal,Normal
+Diabetes,No,No,Yes,No,23,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,26,Male,Low,Low
+Anemia,No,No,Yes,No,50,Male,Low,Low
+Common Cold,Yes,Yes,No,No,55,Male,High,High
+Anemia,No,No,Yes,No,42,Female,High,High
+Asthma,No,Yes,No,Yes,36,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,21,Female,Normal,Normal
+Common Cold,Yes,Yes,No,No,65,Female,High,Normal
+Anemia,No,No,Yes,No,51,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,45,Male,Normal,High
+COVID-19,Yes,Yes,Yes,No,19,Male,Low,High
+Diabetes,No,No,Yes,No,68,Male,Low,Normal
+COVID-19,Yes,Yes,Yes,No,40,Male,High,Normal
+Diabetes,No,No,Yes,No,46,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,80,Male,Low,Normal
+Diabetes,No,No,Yes,No,19,Male,Normal,Low
+Asthma,No,Yes,Yes,Yes,51,Male,Low,Normal
+Asthma,No,Yes,Yes,Yes,75,Male,Low,High
+COVID-19,Yes,Yes,Yes,No,66,Male,Low,High
+Pneumonia,Yes,Yes,Yes,Yes,41,Female,Normal,Low
+Hypertension,No,No,Yes,No,36,Male,Normal,High
+Hypertension,No,No,Yes,No,65,Male,Normal,Normal
+Common Cold,Yes,Yes,No,No,29,Male,High,High
+Hypertension,No,No,Yes,No,70,Female,Normal,Normal
+COVID-19,Yes,Yes,Yes,Yes,32,Female,High,Normal
+Diabetes,No,No,Yes,No,12,Male,Normal,High
+Asthma,No,Yes,No,Yes,64,Female,High,Low
+Anemia,No,No,Yes,No,51,Female,Low,Low
+Hypertension,No,No,Yes,No,56,Female,High,Low
+Common Cold,Yes,Yes,Yes,No,29,Female,High,Low
+Asthma,No,Yes,Yes,Yes,34,Male,Normal,High
+Asthma,No,Yes,No,Yes,26,Female,Low,Low
+Asthma,No,Yes,Yes,Yes,32,Male,Normal,Normal
+Anemia,No,No,Yes,No,56,Male,High,Low
+Common Cold,Yes,Yes,Yes,No,70,Male,Normal,Low
+Anemia,No,No,Yes,No,50,Male,High,Low
+Anemia,No,No,Yes,No,56,Female,High,High
+Diabetes,No,No,Yes,No,57,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,37,Male,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,67,Female,High,Low
+Hypertension,No,No,Yes,No,13,Female,High,Low
+Diabetes,No,No,Yes,No,46,Female,Normal,Low
+Diabetes,No,No,Yes,No,21,Female,Low,Normal
+Anemia,No,No,Yes,No,15,Female,Low,Low
+Hypertension,No,No,Yes,No,65,Male,High,Low
+Common Cold,Yes,Yes,No,No,12,Female,Low,High
+Common Cold,Yes,Yes,Yes,No,19,Female,High,High
+Hypertension,No,No,Yes,No,43,Female,Low,High
+Diabetes,No,No,Yes,No,27,Male,Low,Normal
+Anemia,No,No,Yes,No,35,Female,High,High
+Anemia,No,No,Yes,No,28,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,65,Female,High,Normal
+Hypertension,No,No,Yes,No,13,Male,Normal,High
+Hypertension,No,No,Yes,No,17,Female,High,Low
+COVID-19,Yes,Yes,Yes,No,18,Male,Normal,Normal
+Hypertension,No,No,Yes,No,54,Female,Normal,Normal
+Hypertension,No,No,Yes,No,45,Male,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,60,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,30,Female,Normal,High
+Common Cold,Yes,Yes,Yes,No,79,Male,Normal,Normal
+Hypertension,No,No,Yes,No,21,Female,High,Low
+Asthma,No,Yes,No,Yes,69,Male,Low,Low
+Hypertension,No,No,Yes,No,47,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,39,Male,High,Low
+Common Cold,Yes,Yes,No,No,38,Male,High,Low
+COVID-19,Yes,Yes,Yes,Yes,64,Female,High,High
+COVID-19,Yes,Yes,Yes,Yes,10,Female,Low,High
+COVID-19,Yes,Yes,Yes,Yes,63,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,17,Male,Low,High
+Common Cold,Yes,Yes,Yes,No,53,Male,Low,High
+Anemia,No,No,Yes,No,36,Male,High,High
+Hypertension,No,No,Yes,No,60,Female,Low,Normal
+Hypertension,No,No,Yes,No,67,Female,Low,Normal
+Asthma,No,Yes,No,Yes,46,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,49,Female,High,High
+Asthma,No,Yes,No,Yes,60,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,19,Female,High,Low
+Asthma,No,Yes,Yes,Yes,10,Female,Normal,Low
+Hypertension,No,No,Yes,No,28,Female,Low,High
+Hypertension,No,No,Yes,No,47,Male,Normal,Normal
+Common Cold,Yes,Yes,No,No,64,Female,Low,High
+Diabetes,No,No,Yes,No,15,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,15,Male,Low,Normal
+Asthma,No,Yes,No,Yes,67,Female,Low,Low
+Asthma,No,Yes,No,Yes,36,Female,Low,Low
+COVID-19,Yes,Yes,Yes,No,73,Female,Low,Normal
+Asthma,No,Yes,Yes,Yes,46,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,72,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,21,Male,Low,High
+COVID-19,Yes,Yes,Yes,No,80,Male,Low,High
+Asthma,No,Yes,No,Yes,37,Male,Low,High
+Asthma,No,Yes,Yes,Yes,41,Male,High,Low
+Common Cold,Yes,Yes,Yes,No,66,Male,Normal,Low
+Diabetes,No,No,Yes,No,55,Male,Low,Normal
+Asthma,No,Yes,No,Yes,32,Male,High,Normal
+COVID-19,Yes,Yes,Yes,No,31,Female,Low,High
+Anemia,No,No,Yes,No,56,Female,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,69,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,57,Male,High,Normal
+Asthma,No,Yes,No,Yes,29,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,72,Female,Low,Normal
+Common Cold,Yes,Yes,No,No,67,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,17,Female,Normal,Normal
+Asthma,No,Yes,Yes,Yes,16,Female,Low,Normal
+Diabetes,No,No,Yes,No,29,Male,Low,Low
+Common Cold,Yes,Yes,No,No,31,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,11,Male,Normal,Low
+Asthma,No,Yes,Yes,Yes,77,Female,Normal,Low
+Anemia,No,No,Yes,No,12,Female,High,High
+Asthma,No,Yes,No,Yes,15,Male,High,Normal
+Common Cold,Yes,Yes,Yes,No,30,Female,Low,Low
+Asthma,No,Yes,No,Yes,25,Male,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,50,Female,High,Low
+Diabetes,No,No,Yes,No,35,Male,Normal,High
+Hypertension,No,No,Yes,No,58,Female,Normal,Normal
+Asthma,No,Yes,Yes,Yes,19,Female,Normal,Normal
+Pneumonia,Yes,Yes,Yes,Yes,44,Female,Normal,Normal
+Common Cold,Yes,Yes,No,No,10,Male,High,High
+Asthma,No,Yes,No,Yes,39,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,28,Male,Low,Normal
+Anemia,No,No,Yes,No,74,Female,Normal,Low
+Anemia,No,No,Yes,No,76,Female,High,High
+Pneumonia,Yes,Yes,Yes,Yes,51,Male,High,High
+Asthma,No,Yes,Yes,Yes,34,Male,High,Normal
+Hypertension,No,No,Yes,No,57,Male,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,62,Male,Low,Low
+Anemia,No,No,Yes,No,17,Female,Normal,Low
+COVID-19,Yes,Yes,Yes,Yes,36,Male,High,Normal
+Asthma,No,Yes,Yes,Yes,47,Female,High,High
+Hypertension,No,No,Yes,No,58,Male,High,Normal
+Anemia,No,No,Yes,No,57,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,57,Male,Low,High
+Anemia,No,No,Yes,No,49,Female,Normal,High
+Asthma,No,Yes,No,Yes,11,Female,High,High
+Common Cold,Yes,Yes,No,No,36,Male,High,Normal
+Diabetes,No,No,Yes,No,63,Male,High,High
+Diabetes,No,No,Yes,No,57,Male,Low,High
+Hypertension,No,No,Yes,No,41,Male,Normal,Low
+Diabetes,No,No,Yes,No,74,Male,Low,Normal
+Diabetes,No,No,Yes,No,41,Female,High,High
+Asthma,No,Yes,No,Yes,79,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,14,Female,Normal,Normal
+Diabetes,No,No,Yes,No,24,Male,Normal,Normal
+Asthma,No,Yes,Yes,Yes,24,Male,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,34,Female,Low,Normal
+COVID-19,Yes,Yes,Yes,No,42,Female,Normal,High
+COVID-19,Yes,Yes,Yes,No,62,Female,Low,Normal
+Diabetes,No,No,Yes,No,16,Female,High,Low
+Pneumonia,Yes,Yes,Yes,Yes,52,Male,Normal,Normal
+Diabetes,No,No,Yes,No,15,Male,High,High
+Diabetes,No,No,Yes,No,31,Male,Normal,Low
+COVID-19,Yes,Yes,Yes,No,15,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,63,Male,Low,Low
+Hypertension,No,No,Yes,No,16,Female,Normal,Normal
+COVID-19,Yes,Yes,Yes,No,80,Female,High,Normal
+Hypertension,No,No,Yes,No,11,Male,Low,High
+Asthma,No,Yes,No,Yes,73,Female,Low,Normal
+Diabetes,No,No,Yes,No,65,Female,High,Normal
+Asthma,No,Yes,No,Yes,31,Female,Normal,Low
+Asthma,No,Yes,No,Yes,48,Male,Low,Low
+Hypertension,No,No,Yes,No,19,Female,Normal,High
+Hypertension,No,No,Yes,No,45,Female,Normal,High
+Diabetes,No,No,Yes,No,77,Female,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,60,Male,High,High
+Diabetes,No,No,Yes,No,17,Male,Normal,Low
+Asthma,No,Yes,Yes,Yes,28,Male,High,Normal
+Anemia,No,No,Yes,No,52,Male,Normal,Normal
+Common Cold,Yes,Yes,No,No,10,Male,Normal,Normal
+Asthma,No,Yes,Yes,Yes,50,Male,High,Low
+Asthma,No,Yes,Yes,Yes,42,Male,Normal,High
+COVID-19,Yes,Yes,Yes,Yes,55,Male,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,64,Male,High,Normal
+COVID-19,Yes,Yes,Yes,Yes,24,Male,Normal,High
+Hypertension,No,No,Yes,No,50,Female,Low,High
+Asthma,No,Yes,No,Yes,14,Female,Normal,Normal
+Anemia,No,No,Yes,No,55,Female,Normal,High
+Common Cold,Yes,Yes,No,No,34,Female,Low,Low
+Pneumonia,Yes,Yes,Yes,Yes,28,Female,High,Low
+Anemia,No,No,Yes,No,50,Female,Low,Low
+COVID-19,Yes,Yes,Yes,Yes,76,Female,Normal,Low
+Pneumonia,Yes,Yes,Yes,Yes,53,Male,High,High
+Pneumonia,Yes,Yes,Yes,Yes,37,Male,Normal,High
+Pneumonia,Yes,Yes,Yes,Yes,67,Male,High,Normal
+Pneumonia,Yes,Yes,Yes,Yes,24,Male,Normal,Normal
+Common Cold,Yes,Yes,Yes,No,10,Male,Normal,High
+Asthma,No,Yes,Yes,Yes,28,Female,Low,Low
